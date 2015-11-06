@@ -29,9 +29,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## \*nix/\*nux
 
-### Media
+### Data Processing
 
-- [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
+- [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 
 ### Developer
 

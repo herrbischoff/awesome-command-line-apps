@@ -47,6 +47,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Bazaar](http://bazaar.canonical.com/en/) - Easily manage source code on Windows, Ubuntu, GNU/Linux, and Mac OS X.
 - [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
+- [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 
 
 ## CentOS

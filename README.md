@@ -52,6 +52,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### IRC
 
 - [Irssi](https://github.com/irssi/irssi) - The client of the future.
+- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. 
 
 ### Media
 
@@ -60,6 +61,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
+- [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
+- [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 
 ### Presentation
 

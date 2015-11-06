@@ -16,6 +16,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Filesystem Management](#filesystem-management)
     - [IRC](#irc)
     - [Media](#media)
+    - [Presentation](#presentation)
     - [System](#system)
     - [Terminal](#terminal)
     - [Version Control](#version-control)
@@ -59,6 +60,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
+
+### Presentation
+
+- [WOPR](https://github.com/yaronn/wopr) - Simple markup language for creating rich terminal reports, presentations and infographics.
 
 ### System
 

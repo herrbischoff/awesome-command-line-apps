@@ -55,6 +55,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Media
 
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
+- [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 ### System
 
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.

@@ -65,6 +65,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Terminal
 
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
+- [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.
 
 ### Version Control
 

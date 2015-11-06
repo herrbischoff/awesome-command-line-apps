@@ -14,6 +14,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Developer](#developer)
     - [Email](#email)
     - [IRC](#irc)
+    - [System](#system)
 - [CentOS](#redhatcentos)
 - [Debian](#debian)
 - [FreeBSD](#freebsd)
@@ -36,6 +37,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### IRC
 
 - [Irssi](https://github.com/irssi/irssi) - The client of the future.
+
+### System
+
+- [htop](http://hisham.hm/htop/) - An interactive process viewer.
 
 
 ## CentOS

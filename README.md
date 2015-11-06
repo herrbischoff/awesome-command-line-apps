@@ -34,6 +34,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Email
 
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
+- [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
 - [Sup](http://supmua.org) - A curses threads-with-tags style email client.
 
 ### Filesystem Management

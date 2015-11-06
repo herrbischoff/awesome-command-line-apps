@@ -44,6 +44,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Filesystem Management
 
 - [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
+- [Ncdu](http://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 
 ### IRC
 

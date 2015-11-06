@@ -27,6 +27,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## \*nix/\*nux
 
+### Media
+
+- [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
+
 ### Developer
 
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.

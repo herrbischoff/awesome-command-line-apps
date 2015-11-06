@@ -66,6 +66,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Terminal
 
+- [asciinema](https://asciinema.org) - Free and open source solution for recording terminal sessions and sharing them on the web.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.
 

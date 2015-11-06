@@ -13,6 +13,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [\*nix/\*nux](#nixnux)
     - [Developer](#developer)
     - [Email](#email)
+    - [Filesystem Management](#filesystem-management)
     - [IRC](#irc)
     - [System](#system)
     - [Version Control](#version-control)
@@ -34,6 +35,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
 - [Sup](http://supmua.org) - A curses threads-with-tags style email client.
+
+### Filesystem Management
+
+- [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
 
 ### IRC
 

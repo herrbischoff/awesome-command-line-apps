@@ -15,6 +15,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Email](#email)
     - [Filesystem Management](#filesystem-management)
     - [IRC](#irc)
+    - [Media](#media)
     - [System](#system)
     - [Terminal](#terminal)
     - [Version Control](#version-control)
@@ -51,6 +52,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Irssi](https://github.com/irssi/irssi) - The client of the future.
 
+### Media
+
+- [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 ### System
 
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.

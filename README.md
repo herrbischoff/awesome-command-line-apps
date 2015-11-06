@@ -15,6 +15,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Email](#email)
     - [IRC](#irc)
     - [System](#system)
+    - [Version Control](#version-control)
 - [CentOS](#redhatcentos)
 - [Debian](#debian)
 - [FreeBSD](#freebsd)
@@ -41,6 +42,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### System
 
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
+
+### Version Control
+
+- [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
 
 
 ## CentOS

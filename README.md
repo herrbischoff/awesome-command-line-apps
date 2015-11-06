@@ -16,6 +16,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Filesystem Management](#filesystem-management)
     - [IRC](#irc)
     - [System](#system)
+    - [Terminal](#terminal)
     - [Version Control](#version-control)
 - [CentOS](#redhatcentos)
 - [Debian](#debian)
@@ -53,6 +54,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### System
 
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
+
+### Terminal
+
+- [tmux](https://tmux.github.io) - A terminal multiplexer.
 
 ### Version Control
 

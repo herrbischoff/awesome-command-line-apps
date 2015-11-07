@@ -111,6 +111,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### RSS
 
 - [newsbeuter](http://www.newsbeuter.org) - The Mutt of RSS feed readers.
+- [rss2email](http://www.allthingsrss.com/rss2email/) - A free, open-source tool for Windows and UNIX for getting news from RSS feeds in email.
 
 ### System
 

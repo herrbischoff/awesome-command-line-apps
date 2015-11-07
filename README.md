@@ -157,6 +157,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Mac OS X
 
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
 
 
 ## Ubuntu

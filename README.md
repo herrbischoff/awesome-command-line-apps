@@ -14,6 +14,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Developer](#developer)
     - [Email](#email)
     - [Filesystem Management](#filesystem-management)
+    - [FTP](#ftp)
     - [Games](#games)
     - [IRC](#irc)
     - [Media](#media)
@@ -52,6 +53,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
 - [Ncdu](http://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
+
+### FTP
+
+- [LFTP](http://lftp.yar.ru) - Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols.
 
 ### Games
 

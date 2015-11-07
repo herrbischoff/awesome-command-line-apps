@@ -138,6 +138,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Networking
 
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
+- [mtr](http://www.bitwizard.nl/mtr/) - Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 
 ### Presentation

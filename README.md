@@ -81,6 +81,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Text Editor
 
+- [Neovim](https://neovim.io) - Modern version of the Vim editor with many advanced features.
 - [Vim](http://www.vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 
 ### Version Control

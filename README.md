@@ -45,7 +45,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## \*nix/\*nux
 
-### Content-Creation
+### Content Creation
 
 - [GitBook](https://www.npmjs.com/package/gitbook) - Library and cmd utility to generate GitBooks.
 

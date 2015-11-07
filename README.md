@@ -147,6 +147,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [asciinema](https://asciinema.org) - Free and open source solution for recording terminal sessions and sharing them on the web.
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
+- [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [pick](https://github.com/thoughtbot/pick) - Fuzzy select anything.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.

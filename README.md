@@ -22,6 +22,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Games](#games)
     - [IRC](#irc)
     - [Media](#media)
+    - [Networking](#networking)
     - [Presentation](#presentation)
     - [Productivity](#productivity)
     - [RSS](#rss)
@@ -116,6 +117,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+
+### Networking
+
+- [gping](https://github.com/orf/gping) - Ping, but with a graph.
 
 ### Presentation
 

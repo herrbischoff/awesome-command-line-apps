@@ -49,6 +49,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Command-line utility that creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.
+- [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.

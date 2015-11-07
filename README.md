@@ -46,6 +46,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Developer
 
+- [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Command-line utility that creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.

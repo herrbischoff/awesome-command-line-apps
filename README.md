@@ -87,6 +87,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Beets](http://beets.radbox.org) - The music geek's media organizer.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
+- [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Command-line tool for creating, editing, and getting information about GIF images and animations.
 - [HandBrake](https://handbrake.fr) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.

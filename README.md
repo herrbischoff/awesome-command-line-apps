@@ -11,6 +11,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Table of Contents
 
 - [\*nix/\*nux](#nixnux)
+    - [Benchmarking](#benchmarking)
     - [Content Creation](#content-creation)
     - [Databases](#databases)
     - [Data Processing](#data-processing)
@@ -44,6 +45,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 
 ## \*nix/\*nux
+
+### Benchmarking
+
+- [siege](https://www.joedog.org/siege-home/) - http load testing and benchmarking utility.
 
 ### Content Creation
 

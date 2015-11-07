@@ -22,6 +22,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Games](#games)
     - [IRC](#irc)
     - [Media](#media)
+    - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
     - [Presentation](#presentation)
     - [Productivity](#productivity)
@@ -117,6 +118,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+
+### Miscellaneous
+
+- [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
 
 ### Networking
 

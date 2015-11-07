@@ -55,6 +55,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Download Utilities
 
 - [aria2](http://aria2.sourceforge.net) - Lightweight multi-protocol & multi-source command-line download utility.
+- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js.
 
 ### Email
 

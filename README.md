@@ -45,6 +45,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Databases
 
 - [mycli](http://mycli.net) - Command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
+- [pgcli](http://pgcli.com) - Command line interface for Postgres with auto-completion and syntax highlighting.
 
 ### Data Processing
 

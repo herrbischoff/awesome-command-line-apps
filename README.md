@@ -57,6 +57,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### FTP
 
 - [LFTP](http://lftp.yar.ru) - Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols.
+- [NcFTP](http://www.ncftp.com/ncftp/) - A set of free application programs implementing the File Transfer Protocol (FTP).
 
 ### Games
 

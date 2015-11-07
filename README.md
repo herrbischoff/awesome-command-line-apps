@@ -45,8 +45,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Developer
 
-- [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+- [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 
 ### Download Utilities
 

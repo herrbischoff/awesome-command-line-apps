@@ -116,6 +116,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Presentation
 
+- [termui](https://github.com/gizak/termui) - Cross-platform, easy-to-compile, and fully-customizable terminal dashboard.
 - [WOPR](https://github.com/yaronn/wopr) - Simple markup language for creating rich terminal reports, presentations and infographics.
 
 ### Productivity

@@ -59,6 +59,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Encryption
 
+- [EncFS](https://vgough.github.io/encfs/) - Provides an encrypted filesystem in user-space.
 - [GnuPG](https://www.gnupg.org) - Complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 
 ### Filesystem Management

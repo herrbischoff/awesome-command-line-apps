@@ -21,6 +21,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [IRC](#irc)
     - [Media](#media)
     - [Presentation](#presentation)
+    - [Productivity](#productivity)
     - [RSS](#rss)
     - [System](#system)
     - [Terminal](#terminal)
@@ -95,6 +96,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Presentation
 
 - [WOPR](https://github.com/yaronn/wopr) - Simple markup language for creating rich terminal reports, presentations and infographics.
+
+### Productivity
+
+- [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 
 ### RSS
 

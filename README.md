@@ -128,6 +128,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [asciinema](https://asciinema.org) - Free and open source solution for recording terminal sessions and sharing them on the web.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.
 
 ### Text Editors

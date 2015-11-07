@@ -90,6 +90,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 
+### World Wide Web
+
+- [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
+
 
 ## CentOS
 

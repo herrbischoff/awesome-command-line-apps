@@ -23,6 +23,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Presentation](#presentation)
     - [Productivity](#productivity)
     - [RSS](#rss)
+    - [SSH](#ssh)
     - [System](#system)
     - [Terminal](#terminal)
     - [Text Editors](#text-editors)
@@ -112,6 +113,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [newsbeuter](http://www.newsbeuter.org) - The Mutt of RSS feed readers.
 - [rss2email](http://www.allthingsrss.com/rss2email/) - A free, open-source tool for Windows and UNIX for getting news from RSS feeds in email.
+
+### SSH
+
+- [storm](http://stormssh.readthedocs.org/en/master/) - A command line tool to manage your ssh connections.
 
 ### System
 

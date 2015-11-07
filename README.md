@@ -12,6 +12,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [\*nix/\*nux](#nixnux)
     - [Developer](#developer)
+    - [Download Utilities](#download-utilities)
     - [Email](#email)
     - [Filesystem Management](#filesystem-management)
     - [FTP](#ftp)
@@ -43,6 +44,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+
+### Download Utilities
+
+- [aria2](http://aria2.sourceforge.net) - Lightweight multi-protocol & multi-source command-line download utility.
 
 ### Email
 

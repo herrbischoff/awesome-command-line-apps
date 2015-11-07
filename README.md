@@ -139,6 +139,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [mtr](http://www.bitwizard.nl/mtr/) - Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+- [Netcat](http://netcat.sourceforge.net) - Networking utility which reads and writes data across network connections, using the TCP/IP protocol.
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 
 ### Presentation

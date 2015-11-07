@@ -46,6 +46,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Developer
 
+- [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 

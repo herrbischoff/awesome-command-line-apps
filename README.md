@@ -172,7 +172,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## Mac OS X
 
+- [Fink](http://www.finkproject.org) - The full world of Unix Open Source software for Darwin.
+- [Homebrew](http://brew.sh) - The missing package manager for OS X.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+- [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
 
 

@@ -137,6 +137,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Networking
 
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
+- [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 
 ### Presentation
 

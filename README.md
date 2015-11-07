@@ -18,6 +18,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [IRC](#irc)
     - [Media](#media)
     - [Presentation](#presentation)
+    - [RSS](#rss)
     - [System](#system)
     - [Terminal](#terminal)
     - [Text Editors](#text-editors)
@@ -75,6 +76,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Presentation
 
 - [WOPR](https://github.com/yaronn/wopr) - Simple markup language for creating rich terminal reports, presentations and infographics.
+
+### RSS
+
+- [newsbeuter](http://www.newsbeuter.org) - The Mutt of RSS feed readers.
 
 ### System
 

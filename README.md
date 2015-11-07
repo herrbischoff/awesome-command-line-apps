@@ -145,6 +145,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Terminal
 
 - [asciinema](https://asciinema.org) - Free and open source solution for recording terminal sessions and sharing them on the web.
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
 - [pick](https://github.com/thoughtbot/pick) - Fuzzy select anything.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.

@@ -166,6 +166,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### System
 
+- [dstat](http://dag.wiee.rs/home-made/dstat/) - Versatile replacement for vmstat, iostat, netstat and ifstat.
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
 
 ### Terminal

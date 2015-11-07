@@ -85,6 +85,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Media
 
+- [Beets](http://beets.radbox.org) - The music geek's media organizer.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Command-line tool for creating, editing, and getting information about GIF images and animations.
 - [HandBrake](https://handbrake.fr) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.

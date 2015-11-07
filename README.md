@@ -132,6 +132,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### VPN
 
 - [OpenVPN](https://openvpn.net/index.php/open-source.html) - Full-featured open source SSL VPN solution.
+- [racoon](http://ipsec-tools.sourceforge.net) - Internet Key Exchange (IKE) daemon for automatically keying IPsec connections.
 
 ### World Wide Web
 

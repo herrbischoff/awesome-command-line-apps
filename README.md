@@ -11,6 +11,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Table of Contents
 
 - [\*nix/\*nux](#nixnux)
+    - [Content Creation](#content-creation)
     - [Databases](#databases)
     - [Data Processing](#data-processing)
     - [Developer](#developer)
@@ -43,6 +44,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 
 ## \*nix/\*nux
+
+### Content-Creation
+
+- [GitBook](https://www.npmjs.com/package/gitbook) - Library and cmd utility to generate GitBooks.
 
 ### Databases
 

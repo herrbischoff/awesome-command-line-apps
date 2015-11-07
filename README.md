@@ -11,6 +11,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Table of Contents
 
 - [\*nix/\*nux](#nixnux)
+    - [Databases](#databases)
     - [Developer](#developer)
     - [Download Utilities](#download-utilities)
     - [Email](#email)
@@ -39,6 +40,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 
 ## \*nix/\*nux
+
+### Databases
+
+- [mycli](http://mycli.net) - Command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 
 ### Data Processing
 

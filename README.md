@@ -48,6 +48,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Benchmarking
 
+- [pv](http://www.ivarch.com/programs/pv.shtml) - Terminal-based tool for monitoring the progress of data through a pipeline.
 - [siege](https://www.joedog.org/siege-home/) - http load testing and benchmarking utility.
 
 ### Content Creation

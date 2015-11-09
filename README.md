@@ -127,6 +127,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [MKVToolNix](https://bunkus.org/videotools/mkvtoolnix/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 - [mp4v2](https://code.google.com/p/mp4v2/) - Library and tools to provide functions to read, create, and modify mp4 files.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
+- [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.

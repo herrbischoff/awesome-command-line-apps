@@ -158,6 +158,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Networking
 
+- [Blucat](http://blucat.sourceforge.net/blucat/) - netcat for Bluetooth.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) - Display bandwidth usage on an interface.
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.

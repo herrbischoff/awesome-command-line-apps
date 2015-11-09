@@ -126,6 +126,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### IRC
 
+- [BitlBee](https://www.bitlbee.org/) - IRC to other chat networks gateway.
 - [Irssi](https://github.com/irssi/irssi) - The client of the future.
 - [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
 

@@ -143,6 +143,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Miscellaneous
 
+- [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
 
 ### Networking

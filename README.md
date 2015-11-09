@@ -13,6 +13,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [\*nix/\*nux](#nixnux)
     - [Benchmarking](#benchmarking)
     - [Content Creation](#content-creation)
+    - [Conversion](#conversion)
+    - [Cloud Services](#cloud-services)
     - [Databases](#databases)
     - [Data Processing](#data-processing)
     - [Developer](#developer)
@@ -54,9 +56,17 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [pv](http://www.ivarch.com/programs/pv.shtml) - Terminal-based tool for monitoring the progress of data through a pipeline.
 - [siege](https://www.joedog.org/siege-home/) - http load testing and benchmarking utility.
 
+### Cloud Services
+
+- [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
+
 ### Content Creation
 
 - [GitBook](https://www.npmjs.com/package/gitbook) - Library and cmd utility to generate GitBooks.
+
+### Conversion
+
+- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue") to a set of .iso and .cdr tracks.
 
 ### Databases
 

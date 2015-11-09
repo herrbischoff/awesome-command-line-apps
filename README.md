@@ -231,6 +231,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## Debian
 
+- [aptly](https://www.aptly.info/) -  Swiss army knife for Debian repository management.
+
 
 ## FreeBSD
 

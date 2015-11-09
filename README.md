@@ -167,6 +167,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Netcat](http://netcat.sourceforge.net) - Networking utility which reads and writes data across network connections, using the TCP/IP protocol.
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 - [nmap](https://nmap.org) - Network discovery and security auditing utility.
+- [vnStat](http://humdi.net/vnstat/) - Console-based network traffic monitor for Linux and BSD that keeps a log of network traffic for the selected interface(s).
 
 ### Presentation
 

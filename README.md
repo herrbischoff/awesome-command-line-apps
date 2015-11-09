@@ -173,8 +173,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Security
 
-- [Let's Encrypt](https://letsencrypt.org) - A free, automated and open Certificate Authority.
 - [Aircrack-ng](http://aircrack-ng.org) - 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured.
+- [Let's Encrypt](https://letsencrypt.org) - A free, automated and open Certificate Authority.
 
 ### SSH
 

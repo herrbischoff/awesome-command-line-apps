@@ -181,6 +181,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### System
 
+- [ApacheTop](http://freecode.com/projects/apachetop) - Curses-based top-like display for Apache information, including requests per second, bytes per second, most popular URLs, etc.
 - [dstat](http://dag.wiee.rs/home-made/dstat/) - Versatile replacement for vmstat, iostat, netstat and ifstat.
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
 

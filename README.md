@@ -113,6 +113,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Games
 
 - [Nethack](http://nethack.org) - Single player dungeon exploration game that runs on a wide variety of computer systems.
+- [vitetris](http://www.victornils.net/tetris/) - Terminal-based Tetris clone, much like the early Tetris games by Nintendo.
 
 ### IRC
 

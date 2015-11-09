@@ -37,11 +37,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [VPN](#vpn)
     - [World Wide Web](#world-wide-web)
 - [CentOS](#redhatcentos)
-- [Debian](#debian)
+- [Debian/Ubuntu](#debianubuntu)
 - [FreeBSD](#freebsd)
 - [Mac OS X](#mac-os-x)
     - [iTunes](#itunes)
-- [Ubuntu](#ubuntu)
 
 
 ## \*nix/\*nux
@@ -229,7 +228,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## CentOS
 
 
-## Debian
+## Debian/Ubuntu
 
 - [aptly](https://www.aptly.info/) -  Swiss army knife for Debian repository management.
 
@@ -244,9 +243,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 - [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
-
-
-## Ubuntu
 
 
 ## License

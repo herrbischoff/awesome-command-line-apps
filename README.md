@@ -38,9 +38,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Version Control](#version-control)
     - [VPN](#vpn)
     - [World Wide Web](#world-wide-web)
-- [CentOS](#redhatcentos)
-- [Debian/Ubuntu](#debianubuntu)
-- [FreeBSD](#freebsd)
+- [BSD](#bsd)
+- [Linux](#linux)
 - [Mac OS X](#mac-os-x)
     - [iTunes](#itunes)
 
@@ -242,15 +241,12 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions.
 
 
-## CentOS
+## BSD
 
 
-## Debian/Ubuntu
+## Linux
 
 - [aptly](https://www.aptly.info/) -  Swiss army knife for Debian repository management.
-
-
-## FreeBSD
 
 
 ## Mac OS X

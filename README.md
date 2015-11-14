@@ -247,6 +247,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Linux
 
 - [aptly](https://www.aptly.info/) -  Swiss army knife for Debian repository management.
+- [btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) - Copy on write (CoW) filesystem for Linux aimed at implementing advanced features while focusing on fault tolerance, repair and easy administration.
 
 
 ## Mac OS X

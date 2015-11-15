@@ -11,6 +11,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Table of Contents
 
 - [\*nix/\*nux](#nixnux)
+    - [Automation](#automation)
     - [Backup](#backup)
     - [Benchmarking](#benchmarking)
     - [Content Creation](#content-creation)

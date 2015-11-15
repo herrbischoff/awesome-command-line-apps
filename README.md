@@ -54,6 +54,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Backup
 
+- [Amanda](http://www.amanda.org) - Open Source Network Backup for Linux, Windows, UNIX and OS X.
 - [Bacula](http://www.bacula.org) - Manage backups, recovery, and verification of computer data across a network of computers of different kinds.
 
 ### Benchmarking

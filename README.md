@@ -99,6 +99,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [Alpine](http://www.washington.edu/alpine/) - Fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users.
+- [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
 - [piler](http://www.mailpiler.org/) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.

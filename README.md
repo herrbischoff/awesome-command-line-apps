@@ -84,17 +84,17 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Developer
 
-- [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Command-line utility that creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.
 - [Grunt](http://gruntjs.com) - The JavaScript Task Runner.
-- [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
-- [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static webapps via Dropbox.
+- [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
+- [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
+- [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
+- [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS Command Line Interface.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
-- [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 
 ### Download Utilities
 
@@ -103,15 +103,15 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Email
 
-- [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [Alpine](http://www.washington.edu/alpine/) - Fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users.
-- [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
-- [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
-- [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
-- [piler](http://www.mailpiler.org/) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
+- [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
 - [Sup](http://supmua.org) - A curses threads-with-tags style email client.
+- [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
+- [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
+- [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
+- [piler](http://www.mailpiler.org/) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
 
 ### Encryption
 
@@ -142,22 +142,22 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Media
 
 - [Beets](http://beets.radbox.org) - The music geek's media organizer.
-- [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Command-line tool for creating, editing, and getting information about GIF images and animations.
 - [HandBrakeCLI](https://handbrake.fr) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [Legofy](https://github.com/JuanPotato/Legofy) - Python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO.
-- [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [MKVToolNix](https://bunkus.org/videotools/mkvtoolnix/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
-- [mp4v2](https://code.google.com/p/mp4v2/) - Library and tools to provide functions to read, create, and modify mp4 files.
+- [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
-- [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
-- [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
+- [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+- [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
+- [mp4v2](https://code.google.com/p/mp4v2/) - Library and tools to provide functions to read, create, and modify mp4 files.
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
-- [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+- [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
+- [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
 
 ### Miscellaneous
 
@@ -168,25 +168,25 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Bandwidth Monitor NG](https://www.gropp.org/?id=projects&sub=bwm-ng) - Small and simple console-based live network and disk io bandwidth monitor.
 - [Blucat](http://blucat.sourceforge.net/blucat/) - netcat for Bluetooth.
+- [Netcat](http://netcat.sourceforge.net) - Networking utility which reads and writes data across network connections, using the TCP/IP protocol.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) - Display bandwidth usage on an interface.
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 - [mtr](http://www.bitwizard.nl/mtr/) - Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
-- [Netcat](http://netcat.sourceforge.net) - Networking utility which reads and writes data across network connections, using the TCP/IP protocol.
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 - [nmap](https://nmap.org) - Network discovery and security auditing utility.
 - [vnStat](http://humdi.net/vnstat/) - Console-based network traffic monitor for Linux and BSD that keeps a log of network traffic for the selected interface(s).
 
 ### Presentation
 
-- [termui](https://github.com/gizak/termui) - Cross-platform, easy-to-compile, and fully-customizable terminal dashboard.
 - [WOPR](https://github.com/yaronn/wopr) - Simple markup language for creating rich terminal reports, presentations and infographics.
+- [termui](https://github.com/gizak/termui) - Cross-platform, easy-to-compile, and fully-customizable terminal dashboard.
 
 ### Productivity
 
+- [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
-- [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 
 ### RSS
 
@@ -211,6 +211,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Terminal
 
+- [MultiTail](https://www.vanheusden.com/multitail/) - Monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge.
+- [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+- [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.
 - [asciinema](https://asciinema.org) - Free and open source solution for recording terminal sessions and sharing them on the web.
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 - [bgrep](http://debugmo.de/2009/04/bgrep-a-binary-grep/) - Like grep but for binary strings.
@@ -218,11 +221,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [cheat](https://github.com/chrisallenlane/cheat) - Create and view interactive cheatsheets on the command-line.
 - [desk](https://github.com/jamesob/desk) - Lightweight workspace manager for the shell.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
-- [MultiTail](https://www.vanheusden.com/multitail/) - Monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge.
-- [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [pick](https://github.com/thoughtbot/pick) - Fuzzy select anything.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
-- [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.
 

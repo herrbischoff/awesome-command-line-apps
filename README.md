@@ -11,6 +11,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Table of Contents
 
 - [\*nix/\*nux](#nixnux)
+    - [Backup](#backup)
     - [Benchmarking](#benchmarking)
     - [Content Creation](#content-creation)
     - [Conversion](#conversion)
@@ -49,6 +50,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Automation
 
 - [Ansible](https://www.ansible.com) - Automate deployment, configuration, and upgrading.
+
+### Backup
+
+- [Bacula](http://www.bacula.org) - Manage backups, recovery, and verification of computer data across a network of computers of different kinds.
 
 ### Benchmarking
 

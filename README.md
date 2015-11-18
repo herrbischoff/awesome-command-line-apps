@@ -172,7 +172,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Netcat](http://netcat.sourceforge.net) - Networking utility which reads and writes data across network connections, using the TCP/IP protocol.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) - Display bandwidth usage on an interface.
-- [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 - [mtr](http://www.bitwizard.nl/mtr/) - Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 - [nmap](https://nmap.org) - Network discovery and security auditing utility.
@@ -209,6 +208,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [ApacheTop](http://freecode.com/projects/apachetop) - Curses-based top-like display for Apache information, including requests per second, bytes per second, most popular URLs, etc.
 - [dstat](http://dag.wiee.rs/home-made/dstat/) - Versatile replacement for vmstat, iostat, netstat and ifstat.
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
+- [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 
 ### Terminal
 

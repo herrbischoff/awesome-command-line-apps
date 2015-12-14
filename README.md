@@ -143,6 +143,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Media
 
+- [AtomicParsely](http://atomicparsley.sourceforge.net/) - Lightweight command line program for reading, parsing and setting metadata into MPEG-4 files.
 - [Beets](http://beets.radbox.org) - The music geek's media organizer.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Command-line tool for creating, editing, and getting information about GIF images and animations.

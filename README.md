@@ -254,6 +254,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### World Wide Web
 
 - [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected HTTP URL.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions.
 
 

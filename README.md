@@ -208,6 +208,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### SSH
 
 - [autossh](http://www.harding.motd.ca/autossh/) - Automatically restart SSH sessions and tunnels.
+- [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote folder via SSH.
 - [storm](http://stormssh.readthedocs.org/en/master/) - A command line tool to manage your ssh connections.
 
 ### System

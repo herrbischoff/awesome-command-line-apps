@@ -192,6 +192,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 
 ### RSS
 

@@ -92,6 +92,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static webapps via Dropbox.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 - [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - All the power of caniuse.com with none of the GUI.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.

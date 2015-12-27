@@ -65,6 +65,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Cloud Services
 
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
+- [cadaver](http://www.webdav.org/cadaver/) - Command-line WebDAV client for Unix.
 
 ### Content Creation
 

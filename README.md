@@ -1,6 +1,6 @@
 <img src="https://cdn.rawgit.com/herrbischoff/awesome-command-line-apps/master/assets/logo.svg" width="600">
 
-> A curated list of useful command line apps.
+> A curated list of useful command line apps, in celebration of the TUI.
 >
 > _“Knowledge brings fear” (Mars University Mission Statement)_
 

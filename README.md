@@ -190,6 +190,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
+- [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 
 ### RSS

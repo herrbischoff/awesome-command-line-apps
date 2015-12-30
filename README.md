@@ -166,6 +166,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
+- [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
 
 ### Miscellaneous

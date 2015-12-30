@@ -43,7 +43,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [BSD](#bsd)
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
-    - [iTunes](#itunes)
 
 
 ## \*nix/\*nux

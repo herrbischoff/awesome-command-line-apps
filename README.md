@@ -172,6 +172,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Miscellaneous
 
 - [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
+- [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
 
 ### Networking

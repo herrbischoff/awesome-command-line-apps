@@ -135,6 +135,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Games
 
+- [Frotz](http://frotz.sourceforge.net/) - Interpreter for Infocom games and other Z-machine games.
 - [Nethack](http://nethack.org) - Single player dungeon exploration game that runs on a wide variety of computer systems.
 - [dopewars](http://dopewars.sourceforge.net) - Deal in drugs on the streets of New York, amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.
 - [vitetris](http://www.victornils.net/tetris/) - Terminal-based Tetris clone, much like the early Tetris games by Nintendo.

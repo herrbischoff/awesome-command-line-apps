@@ -74,6 +74,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Conversion
 
 - [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue") to a set of .iso and .cdr tracks.
+- [Pandoc](http://pandoc.org/) - A universal document converter.
 
 ### Databases
 

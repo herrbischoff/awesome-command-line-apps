@@ -163,6 +163,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+- [abcde](http://abcde.einval.com) - A Better CD Encoder.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [mp3fs](https://khenriks.github.io/mp3fs/) - FUSE-based transcoding filesystem from FLAC to MP3.

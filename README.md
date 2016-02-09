@@ -15,6 +15,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Backup](#backup)
     - [Benchmarking](#benchmarking)
     - [Cloud Services](#cloud-services)
+    - [Compression](#compression)
     - [Content Creation](#content-creation)
     - [Conversion](#conversion)
     - [Data Processing](#data-processing)
@@ -66,6 +67,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
 - [cadaver](http://www.webdav.org/cadaver/) - Command-line WebDAV client for Unix.
+
+### Compression
+
+- [dtrx](http://brettcsmith.org/2007/dtrx/) - Takes all the hassle out of extracting archives.
 
 ### Content Creation
 

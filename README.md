@@ -277,6 +277,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### World Wide Web
 
 - [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
+- [GoAccess](http://www.goaccess.io) - Real-time visual web log analyzer and interactive viewer.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions.
 
 

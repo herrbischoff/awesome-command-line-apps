@@ -173,6 +173,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [mp3fs](https://khenriks.github.io/mp3fs/) - FUSE-based transcoding filesystem from FLAC to MP3.
 - [mp4v2](https://code.google.com/p/mp4v2/) - Library and tools to provide functions to read, create, and modify mp4 files.
+- [mpg123](http://mpg123.org) - Fast console MPEG Audio Player and decoder library.
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.

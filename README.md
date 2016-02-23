@@ -240,6 +240,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [dstat](http://dag.wiee.rs/home-made/dstat/) - Versatile replacement for vmstat, iostat, netstat and ifstat.
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
+- [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for desktop screenshots.
 
 ### Terminal

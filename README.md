@@ -212,6 +212,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
+- [Watson](https://tailordev.github.io/Watson) - Elegant time tracking with a CLI.
 
 ### RSS
 

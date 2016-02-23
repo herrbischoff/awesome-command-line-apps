@@ -80,8 +80,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Conversion
 
-- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue") to a set of .iso and .cdr tracks.
 - [Pandoc](http://pandoc.org/) - A universal document converter.
+- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue") to a set of .iso and .cdr tracks.
 
 ### Databases
 
@@ -169,20 +169,20 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Legofy](https://github.com/JuanPotato/Legofy) - Python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO.
 - [MKVToolNix](https://bunkus.org/videotools/mkvtoolnix/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
-- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+- [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
 - [abcde](http://abcde.einval.com) - A Better CD Encoder.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
+- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [mp3fs](https://khenriks.github.io/mp3fs/) - FUSE-based transcoding filesystem from FLAC to MP3.
 - [mp4v2](https://code.google.com/p/mp4v2/) - Library and tools to provide functions to read, create, and modify mp4 files.
 - [mpg123](http://mpg123.org) - Fast console MPEG Audio Player and decoder library.
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
-- [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
 
 ### Miscellaneous
@@ -211,11 +211,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Productivity
 
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
+- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
+- [Watson](https://tailordev.github.io/Watson) - Elegant time tracking with a CLI.
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
-- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
-- [Watson](https://tailordev.github.io/Watson) - Elegant time tracking with a CLI.
 
 ### RSS
 
@@ -294,19 +294,19 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## Linux
 
+- [IPTraf](http://iptraf.seul.org) - Console-based network statistics utility for Linux.
 - [aptly](https://www.aptly.info/) -  Swiss army knife for Debian repository management.
 - [btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) - Copy on write (CoW) filesystem for Linux aimed at implementing advanced features while focusing on fault tolerance, repair and easy administration.
 - [deborphan](http://freecode.com/projects/deborphan) - Finds packages installed on your Debian/GNU system that have no other packages depending on them.
-- [IPTraf](http://iptraf.seul.org) - Console-based network statistics utility for Linux.
 
 
 ## Mac OS X
 
 - [Fink](http://www.finkproject.org) - The full world of Unix Open Source software for Darwin.
 - [Homebrew](http://brew.sh) - The missing package manager for OS X.
-- [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 - [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 
 
 ## License

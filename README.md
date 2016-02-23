@@ -270,6 +270,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 - [gitfs](http://www.presslabs.com/gitfs/) - Version controlled file system.
+- [tig](http://jonas.nitro.dk/tig/) - ncurses based text-mode interface for Git.
 
 ### VPN
 

@@ -167,6 +167,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Legofy](https://github.com/JuanPotato/Legofy) - Python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO.
 - [MKVToolNix](https://bunkus.org/videotools/mkvtoolnix/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
+- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.

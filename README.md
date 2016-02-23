@@ -218,6 +218,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [pdfgrep](https://pdfgrep.org) - Command line utility to search text in PDF files.
+- [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained CLI interface to the Pinboard.in API.
 
 ### RSS
 

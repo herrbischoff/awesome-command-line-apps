@@ -125,7 +125,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
-- [piler](http://www.mailpiler.org/) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
+- [piler](http://www.mailpiler.org/wiki/start) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
 
 ### Encryption
 
@@ -135,7 +135,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Filesystem Management
 
 - [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
-- [Ncdu](http://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
+- [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 
 ### FTP
@@ -155,7 +155,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### IRC
 
-- [BitlBee](https://www.bitlbee.org/) - IRC to other chat networks gateway.
+- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - IRC to other chat networks gateway.
 - [Irssi](https://github.com/irssi/irssi) - The client of the future.
 - [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
 
@@ -163,23 +163,23 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [AtomicParsely](http://atomicparsley.sourceforge.net/) - Lightweight command line program for reading, parsing and setting metadata into MPEG-4 files.
 - [Audiogrep](https://antiboredom.github.io/audiogrep/) - Creates audio supercuts.
-- [Beets](http://beets.radbox.org) - The music geek's media organizer.
+- [Beets](http://beets.io/) - The music geek's media organizer.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Command-line tool for creating, editing, and getting information about GIF images and animations.
 - [HandBrakeCLI](https://handbrake.fr) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [Legofy](https://github.com/JuanPotato/Legofy) - Python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO.
-- [MKVToolNix](https://bunkus.org/videotools/mkvtoolnix/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
+- [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
-- [abcde](http://abcde.einval.com) - A Better CD Encoder.
+- [abcde](http://abcde.einval.com/wiki/) - A Better CD Encoder.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [mp3fs](https://khenriks.github.io/mp3fs/) - FUSE-based transcoding filesystem from FLAC to MP3.
-- [mp4v2](https://code.google.com/p/mp4v2/) - Library and tools to provide functions to read, create, and modify mp4 files.
+- [mp4v2](https://code.google.com/archive/p/mp4v2) - Library and tools to provide functions to read, create, and modify mp4 files.
 - [mpg123](http://mpg123.org) - Fast console MPEG Audio Player and decoder library.
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
@@ -214,7 +214,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
-- [Watson](https://tailordev.github.io/Watson) - Elegant time tracking with a CLI.
+- [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking with a CLI.
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
@@ -280,7 +280,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Bazaar](http://bazaar.canonical.com/en/) - Easily manage source code on Windows, Ubuntu, GNU/Linux, and Mac OS X.
 - [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
-- [gitfs](http://www.presslabs.com/gitfs/) - Version controlled file system.
+- [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.
 - [tig](http://jonas.nitro.dk/tig/) - ncurses based text-mode interface for Git.
 
 ### VPN
@@ -318,4 +318,4 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

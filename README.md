@@ -261,6 +261,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [cheat](https://github.com/chrisallenlane/cheat) - Create and view interactive cheatsheets on the command-line.
 - [desk](https://github.com/jamesob/desk) - Lightweight workspace manager for the shell.
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into git.
+- [Fisherman](https://github.com/fisherman/fisherman) - A blazing fast, modern plugin manager for fish shell.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for fish shell.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
 - [pick](https://github.com/thoughtbot/pick) - Fuzzy select anything.

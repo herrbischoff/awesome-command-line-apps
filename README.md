@@ -174,7 +174,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
-- [abcde](http://abcde.einval.com/wiki/) - A Better CD Encoder.
+- [abcde](https://abcde.einval.com/wiki/) - A Better CD Encoder.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
@@ -279,7 +279,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Version Control
 
 - [Bazaar](http://bazaar.canonical.com/en/) - Easily manage source code on Windows, Ubuntu, GNU/Linux, and Mac OS X.
-- [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
+- [Git](https://www.git-scm.com/) - Git is a free and open source distributed version control system.
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 - [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.
 - [tig](http://jonas.nitro.dk/tig/) - ncurses based text-mode interface for Git.

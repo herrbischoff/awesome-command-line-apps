@@ -106,6 +106,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal.
+- [http-prompt](https://github.com/eliangcs/http-prompt) - Interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS Command Line Interface.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.

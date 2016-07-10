@@ -302,6 +302,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## BSD
 
+- [pkgsrc](http://www.pkgsrc.org) - Portable package build system.
 
 ## Linux
 

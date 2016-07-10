@@ -173,6 +173,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - An optimizer for PNG (Portable Network Graphics) files.
+- [Shellpic](https://github.com/larsjsol/shellpic) - Display images inline in the shell, ASCII-art is so 2013.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
 - [abcde](http://abcde.einval.com/wiki/) - A Better CD Encoder.

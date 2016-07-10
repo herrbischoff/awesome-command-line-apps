@@ -72,6 +72,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Compression
 
+- [archivemount](http://www.cybernoia.de/software/archivemount.html) - FUSE filesystem using libarchive to mount archives.
 - [dtrx](http://brettcsmith.org/2007/dtrx/) - Takes all the hassle out of extracting archives.
 
 ### Content Creation

@@ -44,6 +44,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [BSD](#bsd)
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
+- [Helpers](#helpers)
 
 
 ## \*nix/\*nux
@@ -321,6 +322,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 - [reminders-cli](https://github.com/keith/reminders-cli) - A simple CLI for interacting with Reminders.
+
+
+## Helpers
+
+- [crontab.guru](http://crontab.guru) - Cron schedule expression editor.
 
 
 ## License

@@ -57,6 +57,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Amanda](http://www.amanda.org) - Open Source Network Backup for Linux, Windows, UNIX and OS X.
 - [Bacula](http://www.bacula.org) - Manage backups, recovery, and verification of computer data across a network of computers of different kinds.
+- [duply](http://duply.net) - Easily create GPG encrypted, compressed backups of any data almost anywhere.
 - [mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - Secure mysqldump script with encryption, compression, logging, blacklisting and Nagios monitoring integration.
 
 

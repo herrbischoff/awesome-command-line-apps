@@ -56,7 +56,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Backup
 
 - [Amanda](http://www.amanda.org) - Open Source Network Backup for Linux, Windows, UNIX and OS X.
-- [Bacula](http://www.bacula.org) - Manage backups, recovery, and verification of computer data across a network of computers of different kinds.
+- [Bacula](http://blog.bacula.org) - Manage backups, recovery, and verification of computer data across a network of computers of different kinds.
 - [duply](http://duply.net) - Easily create GPG encrypted, compressed backups of any data almost anywhere.
 - [mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - Secure mysqldump script with encryption, compression, logging, blacklisting and Nagios monitoring integration.
 
@@ -75,7 +75,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Compression
 
 - [archivemount](http://www.cybernoia.de/software/archivemount.html) - FUSE filesystem using libarchive to mount archives.
-- [dtrx](http://brettcsmith.org/2007/dtrx/) - Takes all the hassle out of extracting archives.
+- [dtrx](https://brettcsmith.org/2007/dtrx/) - Takes all the hassle out of extracting archives.
 
 ### Content Creation
 
@@ -125,7 +125,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
 - [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
-- [Sup](http://supmua.org) - A curses threads-with-tags style email client.
+- [Sup](https://sup-heliotrope.github.io) - A curses threads-with-tags style email client.
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
@@ -179,7 +179,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Shellpic](https://github.com/larsjsol/shellpic) - Display images inline in the shell, ASCII-art is so 2013.
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
-- [abcde](http://abcde.einval.com/wiki/) - A Better CD Encoder.
+- [abcde](https://abcde.einval.com/wiki/) - A Better CD Encoder.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
 - [mopidy](https://www.mopidy.com/) - Self hosted MPD daemon that connects to Spotify and Soundcloud.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
@@ -242,7 +242,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [autossh](http://www.harding.motd.ca/autossh/) - Automatically restart SSH sessions and tunnels.
 - [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote folder via SSH.
-- [storm](http://stormssh.readthedocs.org/en/master/) - A command line tool to manage your ssh connections.
+- [storm](http://stormssh.readthedocs.io/en/master/) - A command line tool to manage your ssh connections.
 
 ### System
 
@@ -251,7 +251,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [htop](http://hisham.hm/htop/) - An interactive process viewer.
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
-- [netboot.xyz](http://netboot.xyz) - Boot multiple Operating System installers or utilities over the network from a single menu.
+- [netboot.xyz](https://netboot.xyz) - Boot multiple Operating System installers or utilities over the network from a single menu.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for desktop screenshots.
 
 ### Terminal
@@ -285,7 +285,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Version Control
 
 - [Bazaar](http://bazaar.canonical.com/en/) - Easily manage source code on Windows, Ubuntu, GNU/Linux, and Mac OS X.
-- [Git](http://www.git-scm.com) - Git is a free and open source distributed version control system.
+- [Git](https://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 - [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.
 - [tig](http://jonas.nitro.dk/tig/) - ncurses based text-mode interface for Git.
@@ -299,7 +299,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### World Wide Web
 
 - [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
-- [GoAccess](http://www.goaccess.io) - Real-time visual web log analyzer and interactive viewer.
+- [GoAccess](https://www.goaccess.io) - Real-time visual web log analyzer and interactive viewer.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions.
 
 

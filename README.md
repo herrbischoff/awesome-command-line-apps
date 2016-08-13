@@ -257,6 +257,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Terminal
 
+- [Marker](https://github.com/pindexis/marker) - The terminal command palette.
 - [MultiTail](https://www.vanheusden.com/multitail/) - Monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge.
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.

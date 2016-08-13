@@ -203,6 +203,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Bandwidth Monitor NG](https://www.gropp.org/?id=projects&sub=bwm-ng) - Small and simple console-based live network and disk io bandwidth monitor.
 - [Blucat](http://blucat.sourceforge.net/blucat/) - netcat for Bluetooth.
 - [Netcat](http://netcat.sourceforge.net) - Networking utility which reads and writes data across network connections, using the TCP/IP protocol.
+- [Nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) - Display bandwidth usage on an interface.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.

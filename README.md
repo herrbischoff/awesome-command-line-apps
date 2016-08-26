@@ -52,6 +52,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Automation
 
 - [Ansible](https://www.ansible.com) - Automate deployment, configuration, and upgrading.
+- [fswatch](https://github.com/emcrisostomo/fswatch) - Cross-platform file change monitor with multiple backends.
 
 ### Backup
 

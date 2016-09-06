@@ -245,7 +245,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### SSH
 
 - [autossh](http://www.harding.motd.ca/autossh/) - Automatically restart SSH sessions and tunnels.
-- [ironssh](https://ironcorelabs.com/products/ironsftp) - E2E encrypt files transferred using sftp/scp and share access with other users.
+- [ironssh](https://ironcorelabs.com/products/ironsftp/) - E2E encrypt files transferred using sftp/scp and share access with other users.
 - [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote folder via SSH.
 - [storm](http://stormssh.readthedocs.io/en/master/) - A command line tool to manage your ssh connections.
 

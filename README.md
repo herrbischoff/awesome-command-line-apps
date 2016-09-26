@@ -141,6 +141,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Filesystem Management
 
+- [FDUPES](https://github.com/adrianlopezroche/fdupes) - Identify or delete duplicate files residing within specified directories.
 - [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.

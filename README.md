@@ -128,7 +128,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
 - [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
-- [Sup](https://sup-heliotrope.github.io) - A curses threads-with-tags style email client.
+- [Sup](http://supmua.org) - A curses threads-with-tags style email client.
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
@@ -149,7 +149,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### FTP
 
 - [CurlFtpFS](http://curlftpfs.sourceforge.net/) - Filesystem for accessing FTP hosts based on FUSE and libcurl.
-- [LFTP](http://lftp.yar.ru) - Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols.
+- [LFTP](http://lftp.tech/) - Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols.
 - [NcFTP](http://www.ncftp.com/ncftp/) - A set of free application programs implementing the File Transfer Protocol (FTP).
 
 ### Games
@@ -278,7 +278,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into git.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for fish shell.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
-- [pick](https://github.com/thoughtbot/pick) - Fuzzy select anything.
+- [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.
@@ -296,7 +296,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Git](https://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 - [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.
-- [tig](http://jonas.nitro.dk/tig/) - ncurses based text-mode interface for Git.
+- [tig](https://github.com/jonas/tig) - ncurses based text-mode interface for Git.
 
 ### VPN
 

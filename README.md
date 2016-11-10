@@ -330,6 +330,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 - [reminders-cli](https://github.com/keith/reminders-cli) - A simple CLI for interacting with Reminders.
 - [tag](https://github.com/jdberry/tag) - Manipulate tags on files and query for files with those tags.
 

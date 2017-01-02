@@ -34,6 +34,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Presentation](#presentation)
     - [Productivity](#productivity)
     - [RSS](#rss)
+    - [Social Media](#social-media)
     - [SSH](#ssh)
     - [System](#system)
     - [Terminal](#terminal)
@@ -243,6 +244,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Aircrack-ng](http://aircrack-ng.org) - 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured.
 - [Let's Encrypt](https://letsencrypt.org) - A free, automated and open Certificate Authority.
+
+### Social Media
+
+- [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
 
 ### SSH
 

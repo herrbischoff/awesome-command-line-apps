@@ -133,6 +133,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
 - [piler](http://www.mailpiler.org/wiki/start) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
+- [Terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 
 ### Encryption
 

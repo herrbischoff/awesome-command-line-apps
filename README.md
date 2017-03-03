@@ -204,6 +204,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
+- [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 
 ### Networking
 

@@ -336,6 +336,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 - [reminders-cli](https://github.com/keith/reminders-cli) - A simple CLI for interacting with Reminders.
 - [tag](https://github.com/jdberry/tag) - Manipulate tags on files and query for files with those tags.
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 
 
 ## Helpers

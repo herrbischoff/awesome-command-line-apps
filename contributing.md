@@ -8,7 +8,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple.
 - End all descriptions with a full stop/period.
 - Order titles alphabetically within each category.
-- Group commands for checking, enabling and disabling in one code block.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.

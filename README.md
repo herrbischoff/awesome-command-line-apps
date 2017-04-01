@@ -8,7 +8,7 @@
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
-## Table of Contents
+## Contents
 
 - [\*nix/\*nux](#nixnux)
     - [Automation](#automation)

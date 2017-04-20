@@ -156,7 +156,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Games
 
-- [Angband](http://rephial.org/) - Angband is a free, single-player dungeon exploration game. 
+- [Angband](http://rephial.org/) - Angband is a free, single-player dungeon exploration game.
 - [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/) - Roguelike set in a post-apocalyptic world.
 - [Curse of War](https://a-nikolaev.github.io/curseofwar/) - Fast-paced real-time action strategy game.
 - [Frotz](http://frotz.sourceforge.net/) - Interpreter for Infocom games and other Z-machine games.
@@ -309,6 +309,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### World Wide Web
 
+- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager.
 - [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
 - [GoAccess](https://www.goaccess.io) - Real-time visual web log analyzer and interactive viewer.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions.

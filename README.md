@@ -145,6 +145,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [FDUPES](https://github.com/adrianlopezroche/fdupes) - Identify or delete duplicate files residing within specified directories.
 - [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with VI key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 
@@ -156,7 +157,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Games
 
-- [Angband](http://rephial.org/) - Angband is a free, single-player dungeon exploration game. 
+- [Angband](http://rephial.org/) - Angband is a free, single-player dungeon exploration game.
 - [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/) - Roguelike set in a post-apocalyptic world.
 - [Curse of War](https://a-nikolaev.github.io/curseofwar/) - Fast-paced real-time action strategy game.
 - [Frotz](http://frotz.sourceforge.net/) - Interpreter for Infocom games and other Z-machine games.

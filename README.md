@@ -156,7 +156,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Games
 
-- [Angband](http://rephial.org/) - Angband is a free, single-player dungeon exploration game. 
+- [Angband](http://rephial.org/) - Angband is a free, single-player dungeon exploration game.
 - [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/) - Roguelike set in a post-apocalyptic world.
 - [Curse of War](https://a-nikolaev.github.io/curseofwar/) - Fast-paced real-time action strategy game.
 - [Frotz](http://frotz.sourceforge.net/) - Interpreter for Infocom games and other Z-machine games.
@@ -178,6 +178,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Command-line tool for creating, editing, and getting information about GIF images and animations.
 - [HandBrakeCLI](https://handbrake.fr) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [Legofy](https://github.com/JuanPotato/Legofy) - Python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO.
 - [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 - [MediaInfo](http://mediaarea.net/en/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.

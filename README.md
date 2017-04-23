@@ -4,7 +4,7 @@
 >
 > _“Knowledge brings fear” (Mars University Mission Statement)_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-command-line-apps.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-command-line-apps)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
@@ -128,7 +128,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
 - [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
-- [Sup](http://supmua.org) - A curses threads-with-tags style email client.
+- [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
@@ -203,6 +203,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
+- [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
 
 ### Networking
@@ -310,7 +311,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### World Wide Web
 
 - [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
-- [GoAccess](https://www.goaccess.io) - Real-time visual web log analyzer and interactive viewer.
+- [GoAccess](https://goaccess.io) - Real-time visual web log analyzer and interactive viewer.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions.
 

@@ -292,6 +292,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Diakonos](http://diakonos.pist0s.ca) - A linux editor for the masses.
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor.
+- [Kakoune](http://kakoune.org) - Modal editor with multiple selections and orthogonal design.
 - [Neovim](https://neovim.io) - Modern version of the Vim editor with many advanced features.
 - [Vim](http://www.vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 

@@ -21,6 +21,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Data Processing](#data-processing)
     - [Databases](#databases)
     - [Developer](#developer)
+    - [Dotfile Management](#dotfile-management)
     - [Download Utilities](#download-utilities)
     - [Email](#email)
     - [Encryption](#encryption)
@@ -117,6 +118,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS Command Line Interface.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
+
+### Dotfile Management
+
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+- [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.
 
 ### Download Utilities
 
@@ -281,7 +287,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [cheat](https://github.com/chrisallenlane/cheat) - Create and view interactive cheatsheets on the command-line.
 - [desk](https://github.com/jamesob/desk) - Lightweight workspace manager for the shell.
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into git.
-- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for fish shell.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.

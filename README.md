@@ -318,6 +318,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### World Wide Web
 
+- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager.
 - [ELinks](http://elinks.or.cz) - Advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser.
 - [GoAccess](https://goaccess.io) - Real-time visual web log analyzer and interactive viewer.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.

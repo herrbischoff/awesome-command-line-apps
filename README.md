@@ -292,7 +292,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-- [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.
+- [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frequency'.
 
 ### Text Editors
 

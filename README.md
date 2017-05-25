@@ -154,6 +154,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with VI key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
+- [ranger](http://ranger.nongnu.org) - ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy.
 
 ### FTP
 

@@ -327,6 +327,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ## BSD
 
+- [ezjail](http://erdgeist.org/arts/software/ezjail/) - Jail administration framework.
 - [pkgsrc](http://www.pkgsrc.org) - Portable package build system.
 - [poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system.
 

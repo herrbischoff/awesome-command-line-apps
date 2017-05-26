@@ -137,11 +137,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
 - [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
 - [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+- [Terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
 - [piler](http://www.mailpiler.org/wiki/start) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.
-- [Terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 
 ### Encryption
 
@@ -235,6 +235,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Productivity
 
+- [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking with a CLI.
@@ -243,7 +244,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [pdfgrep](https://pdfgrep.org) - Command line utility to search text in PDF files.
 - [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained CLI interface to the Pinboard.in API.
-- [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.
 - [woof](http://www.home.unix-ag.org/simon/woof.html) - Simple one-off HTTP file sharing.
 
 ### RSS

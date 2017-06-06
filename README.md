@@ -344,6 +344,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Fink](http://www.finkproject.org) - The full world of Unix Open Source software for Darwin.
 - [Homebrew](http://brew.sh) - The missing package manager for OS X.
 - [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
+- [Night Shift Shell Utility](https://github.com/jenghis/nshift) - Simple shell utility to control the macOS Night Shift feature.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode/convert/play various 'lossless' audio files.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 - [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.

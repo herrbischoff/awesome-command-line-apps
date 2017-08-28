@@ -302,6 +302,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Kakoune](http://kakoune.org) - Modal editor with multiple selections and orthogonal design.
 - [Neovim](https://neovim.io) - Modern version of the Vim editor with many advanced features.
 - [Vim](http://www.vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
+- [Vis](https://github.com/martanne/vis) - A highly efficient text editor.
 
 ### Version Control
 

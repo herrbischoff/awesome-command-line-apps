@@ -205,6 +205,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
+- [tizonia](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.
 
 ### Miscellaneous
 

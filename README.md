@@ -73,6 +73,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Cloud Services
 
+- [awless](https://github.com/wallix/awless) - A mighty command line interface for Amazon Web Services.
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
 - [cadaver](http://www.webdav.org/cadaver/) - Command-line WebDAV client for Unix.
 

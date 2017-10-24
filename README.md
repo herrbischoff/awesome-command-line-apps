@@ -351,6 +351,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 - [reminders-cli](https://github.com/keith/reminders-cli) - A simple CLI for interacting with Reminders.
 - [tag](https://github.com/jdberry/tag) - Manipulate tags on files and query for files with those tags.
+- [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash).
 
 
 ## Helpers

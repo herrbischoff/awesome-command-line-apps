@@ -31,6 +31,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [IRC](#irc)
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
+    - [Navigation](#navigation)
     - [Networking](#networking)
     - [Presentation](#presentation)
     - [Productivity](#productivity)
@@ -213,6 +214,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
+
+### Navigation
+
+- [MapSCII](https://github.com/rastapasta/mapscii) - OpenStreetMap client for your terminal, renders an explorable Braille & ASCII world map.
 
 ### Networking
 

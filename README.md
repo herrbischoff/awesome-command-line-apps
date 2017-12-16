@@ -150,6 +150,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Filesystem Management
 
+- [catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data.
 - [FDUPES](https://github.com/adrianlopezroche/fdupes) - Identify or delete duplicate files residing within specified directories.
 - [Midnight Commander](http://www.midnight-commander.org) - Feature rich visual file manager.
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.

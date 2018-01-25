@@ -246,6 +246,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [pdfgrep](https://pdfgrep.org) - Command line utility to search text in PDF files.
 - [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained CLI interface to the Pinboard.in API.
 - [woof](http://www.home.unix-ag.org/simon/woof.html) - Simple one-off HTTP file sharing.
+- [zap](https://github.com/issmirnov/zap) - Blazing fast url shortcuts across all browsers.
 
 ### RSS
 

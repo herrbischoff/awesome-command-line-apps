@@ -99,6 +99,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Data Processing
 
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool
 
 ### Developer
 

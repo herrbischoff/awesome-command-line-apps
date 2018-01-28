@@ -7,4 +7,4 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list btrfs.wiki.kernel.org --white-list www.harding.motd.ca --white-list www.webdav.org --white-list www.newsbeuter.org
+  - awesome_bot README.md --allow-dupe --allow-redirect --white-list btrfs.wiki.kernel.org --white-list harding.motd.ca --white-list webdav.org

@@ -14,6 +14,6 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Pull requests that are not fixed according to the comments within one week will be closed.
 - No social media related applications.
-- Do not delete any previous entry ever with the sole exception that a project is officially superseded/continued by the one you're replacing it with.
+- Do not delete any previous entry ever, with the sole exception that a project is officially superseded/continued by the one you're replacing it with.
 
 Thank you for your suggestions!

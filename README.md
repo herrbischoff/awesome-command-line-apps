@@ -312,6 +312,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Mercurial](https://www.mercurial-scm.org) - Free, distributed source control management tool.
 - [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.
 - [tig](https://github.com/jonas/tig) - ncurses based text-mode interface for Git.
+- [grv](https://github.com/rgburke/grv) - ncurses based text-mode interface for Git with customizable vi bindings.
+
 
 ### VPN
 

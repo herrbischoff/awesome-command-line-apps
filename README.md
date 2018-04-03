@@ -35,6 +35,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Presentation](#presentation)
     - [Productivity](#productivity)
     - [RSS](#rss)
+    - [Searching](#searching)
     - [SSH](#ssh)
     - [System](#system)
     - [Terminal](#terminal)
@@ -107,7 +108,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Grunt](http://gruntjs.com) - The JavaScript Task Runner.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static webapps via Dropbox.
-- [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 - [Yarn](https://yarnpkg.com) - Deterministic, secure alternative to npm.
 - [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
@@ -251,6 +251,12 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [newsbeuter](https://www.newsbeuter.org) - The Mutt of RSS feed readers.
 - [rss2email](http://www.allthingsrss.com/rss2email/) - A free, open-source tool for Windows and UNIX for getting news from RSS feeds in email.
+
+### Searching
+
+- [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
+- [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to 'find'.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively search directories for a regex pattern extremely fast.
 
 ### Security
 

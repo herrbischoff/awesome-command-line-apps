@@ -64,6 +64,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [BorgBackup](https://github.com/borgbackup/borg) - Significantly improved fork of Attic.
 - [duply](http://duply.net) - Easily create GPG encrypted, compressed backups of any data almost anywhere.
 - [mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - Secure mysqldump script with encryption, compression, logging, blacklisting and Nagios monitoring integration.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
 
 
 ### Benchmarking
@@ -158,7 +159,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with VI key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
-- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way. 
+- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way.
 
 ### FTP
 

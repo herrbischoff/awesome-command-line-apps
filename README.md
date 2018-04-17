@@ -155,7 +155,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with VI key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
-- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way. 
+- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way.
 
 ### FTP
 
@@ -262,6 +262,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [Aircrack-ng](http://aircrack-ng.org) - 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured.
 - [Let's Encrypt](https://letsencrypt.org) - A free, automated and open Certificate Authority.
+- [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 
 ### SSH
 

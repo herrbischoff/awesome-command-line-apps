@@ -103,6 +103,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Developer
 
+- [Rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Command-line utility that creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.
 - [Grunt](http://gruntjs.com) - The JavaScript Task Runner.

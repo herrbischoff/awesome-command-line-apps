@@ -314,7 +314,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [grv](https://github.com/rgburke/grv) - ncurses based text-mode Git repository browser.
 - [tig](https://github.com/jonas/tig) - ncurses based text-mode interface for Git.
 
-
 ### VPN
 
 - [OpenVPN](https://openvpn.net/index.php/open-source.html) - Full-featured open source SSL VPN solution.

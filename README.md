@@ -238,6 +238,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Productivity
 
+- [MapSCII](https://github.com/rastapasta/mapscii) - OpenStreetMap client, renders an explorable Braille & ASCII world map.
 - [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.
 - [SC-IM](https://github.com/andmarti1424/sc-im) - An ncurses-based spreadsheet application.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.

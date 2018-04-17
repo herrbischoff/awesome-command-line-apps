@@ -108,6 +108,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Grunt](http://gruntjs.com) - The JavaScript Task Runner.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static webapps via Dropbox.
+- [Rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error.
 - [Yarn](https://yarnpkg.com) - Deterministic, secure alternative to npm.
 - [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.

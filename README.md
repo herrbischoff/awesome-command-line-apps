@@ -98,7 +98,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Data Processing
 
-- [datamash](https://www.gnu.org/software/datamash/) Command-line program which performs basic numeric, textual and statistical operations on input textual data files.
+- [datamash](https://www.gnu.org/software/datamash/) Perform basic numeric, textual and statistical operations on textual data files.
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 
 ### Developer

@@ -215,6 +215,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
+- [yeelight-cli](https://github.com/sgbasaraner/yeelight-cli) - cross-platform [Yeelight](https://yeelight.com) client.
 
 ### Networking
 

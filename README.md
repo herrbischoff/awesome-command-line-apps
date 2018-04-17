@@ -75,7 +75,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Cloud Services
 
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
-- [cadaver](http://www.webdav.org/cadaver/) - Command-line WebDAV client for Unix.
 
 ### Compression
 
@@ -245,6 +244,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking with a CLI.
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
+- [eureka](https://github.com/simeg/eureka) - CLI tool for quickly writing down and storing your ideas without having to leave the terminal.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [pdfgrep](https://pdfgrep.org) - Command line utility to search text in PDF files.
 - [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained CLI interface to the Pinboard.in API.

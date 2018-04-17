@@ -281,6 +281,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [netboot.xyz](https://netboot.xyz) - Boot multiple Operating System installers or utilities over the network from a single menu.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for desktop screenshots.
+- [lstags](https://github.com/ivanilves/lstags) - Manipulates Docker images across different registries
 
 ### Terminal
 

@@ -21,7 +21,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Data Processing](#data-processing)
     - [Databases](#databases)
     - [Developer](#developer)
-    - [Documets](#documents)
     - [Dotfile Management](#dotfile-management)
     - [Download Utilities](#download-utilities)
     - [Email](#email)
@@ -120,11 +119,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS Command Line Interface.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
-
-### Documets
-
-- [mupdf](https://github.com/ArtifexSoftware/mupdf) - Viewing and converting PDF, XPS, and E-book documents.
-- [SC-IM](https://github.com/andmarti1424/sc-im) - An ncurses spreadsheet program for terminal.
 
 ### Dotfile Management
 
@@ -243,6 +237,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Productivity
 
 - [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.
+- [SC-IM](https://github.com/andmarti1424/sc-im) - An ncurses-based spreadsheet application.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking with a CLI.

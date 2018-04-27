@@ -158,7 +158,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with VI key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
-- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way. 
+- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way.
 
 ### FTP
 
@@ -217,6 +217,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
+- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 
 ### Networking
 

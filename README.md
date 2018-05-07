@@ -68,6 +68,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Benchmarking
 
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Benchmark commands through the command line.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected HTTP URL.
 - [pv](http://www.ivarch.com/programs/pv.shtml) - Terminal-based tool for monitoring the progress of data through a pipeline.
 - [siege](https://www.joedog.org/siege-home/) - http load testing and benchmarking utility.

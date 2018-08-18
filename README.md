@@ -213,6 +213,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Miscellaneous
 
 - [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
+- [git2svg](https://github.com/Camji55/git2svg) - Tool that creates an SVG image from your GitHub contributions graph.
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.

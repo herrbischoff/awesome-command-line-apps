@@ -262,6 +262,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 - [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to 'find'.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively search directories for a regex pattern extremely fast.
+- [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 
 ### Security
 

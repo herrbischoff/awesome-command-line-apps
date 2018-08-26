@@ -18,15 +18,15 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Compression](#compression)
     - [Content Creation](#content-creation)
     - [Conversion](#conversion)
-    - [Data Processing](#data-processing)
     - [Databases](#databases)
+    - [Data Processing](#data-processing)
     - [Developer](#developer)
     - [Dotfile Management](#dotfile-management)
     - [Download Utilities](#download-utilities)
     - [Email](#email)
     - [Encryption](#encryption)
-    - [FTP](#ftp)
     - [Filesystem Management](#filesystem-management)
+    - [FTP](#ftp)
     - [Games](#games)
     - [IRC](#irc)
     - [Media](#media)
@@ -36,13 +36,13 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Productivity](#productivity)
     - [RSS](#rss)
     - [Searching](#searching)
-    - [Searching](#security)
+    - [Security](#security)
     - [SSH](#ssh)
     - [System](#system)
     - [Terminal](#terminal)
     - [Text Editors](#text-editors)
-    - [VPN](#vpn)
     - [Version Control](#version-control)
+    - [VPN](#vpn)
     - [World Wide Web](#world-wide-web)
 - [BSD](#bsd)
 - [Linux](#linux)
@@ -159,7 +159,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with VI key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
-- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way. 
+- [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way.
 
 ### FTP
 

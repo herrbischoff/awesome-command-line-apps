@@ -42,6 +42,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Text Editors](#text-editors)
     - [VPN](#vpn)
     - [Version Control](#version-control)
+    - [Workflow](#workflow)
     - [World Wide Web](#world-wide-web)
 - [BSD](#bsd)
 - [Linux](#linux)
@@ -330,6 +331,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [OpenVPN](https://openvpn.net/index.php/open-source.html) - Full-featured open source SSL VPN solution.
 - [racoon](http://ipsec-tools.sourceforge.net) - Internet Key Exchange (IKE) daemon for automatically keying IPsec connections.
 - [strongSwan](https://www.strongswan.org/) - Open Source IPsec for Linux.
+
+### Workflow
+
+- [Corgi](https://github.com/DrakeW/corgi) - Command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet.
+- [Pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager.
 
 ### World Wide Web
 

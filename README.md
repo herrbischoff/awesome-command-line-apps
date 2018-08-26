@@ -36,6 +36,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Productivity](#productivity)
     - [RSS](#rss)
     - [Searching](#searching)
+    - [Searching](#security)
     - [SSH](#ssh)
     - [System](#system)
     - [Terminal](#terminal)

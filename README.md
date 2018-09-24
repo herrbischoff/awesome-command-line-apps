@@ -127,6 +127,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.
+- [DFM](https://github.com/chasinglogic/dfm) - A dotfile manager for pair-programmers and lazy people.
 
 ### Download Utilities
 

@@ -8,6 +8,14 @@
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
+
+## Caffeinating
+
+When you find something helpful in here, you could buy me a coffee. I spend a lot of time and effort on curating this list. Keeping me properly caffeinated accelerates things. And it would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings. It's available completely free for a reason. Still, it would be awesome.
+
+Patreon: https://www.patreon.com/herrbischoff
+
+
 ## Contents
 
 - [\*nix/\*nux](#nixnux)
@@ -369,15 +377,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Helpers
 
 - [crontab.guru](http://crontab.guru) - Cron schedule expression editor.
-
-
-## Send a Tip my Way
-
-In case you feel particularly generous today, you could buy me a coffee. That
-would really make my day. Kindness of strangers and all that. If you can't or
-won't, no hard feelings.
-
-Patreon: https://www.patreon.com/herrbischoff
 
 
 ## License

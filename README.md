@@ -269,6 +269,7 @@ Patreon: https://www.patreon.com/herrbischoff
 ### Searching
 
 - [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to 'find'.
+- [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively search directories for a regex pattern extremely fast.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - A blazingly fast tool for searching code.
 

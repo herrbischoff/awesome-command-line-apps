@@ -111,6 +111,7 @@ Patreon: https://www.patreon.com/herrbischoff
 
 - [datamash](https://www.gnu.org/software/datamash/) Perform basic numeric, textual and statistical operations on textual data files.
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer and processor.
 
 ### Developer
 

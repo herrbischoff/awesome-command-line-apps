@@ -136,6 +136,7 @@ Patreon: https://www.patreon.com/herrbischoff
 
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.
+- [GNU Stow](https://www.gnu.org/software/stow/) - A symlink farm manager.
 
 ### Download Utilities
 

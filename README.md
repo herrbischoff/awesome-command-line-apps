@@ -140,6 +140,7 @@ Patreon: https://www.patreon.com/herrbischoff
 ### Download Utilities
 
 - [aria2](http://aria2.sourceforge.net) - Lightweight multi-protocol & multi-source command-line download utility.
+- [Mariner](https://gitlab.com/radek-sprta/mariner) - Navigate torrents in CLI.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js.
 
 ### Email

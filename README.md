@@ -8,6 +8,7 @@
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
+English | [中文](README-zh.md) 
 
 ## Caffeinating
 

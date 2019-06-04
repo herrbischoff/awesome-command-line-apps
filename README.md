@@ -256,7 +256,7 @@ Patreon: https://www.patreon.com/herrbischoff
 - [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained CLI interface to the Pinboard.in API.
 - [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.
 - [SC-IM](https://github.com/andmarti1424/sc-im) - An ncurses-based spreadsheet application.
-- [taskell](http://taskell.app) - A Trello-like command line Kanban board/task managment program.
+- [taskell](https://taskell.app) - A Trello-like command line Kanban board/task management program.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking with a CLI.

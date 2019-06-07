@@ -222,6 +222,7 @@ Patreon: https://www.patreon.com/herrbischoff
 ### Miscellaneous
 
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
+- [cointop](https://github.com/miguelmota/cointop) - Interactive cryptocurrency tracking.
 - [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.

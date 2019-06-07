@@ -217,7 +217,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
-- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+- [cointop](https://github.com/miguelmota/cointop) - Interactive cryptocurrency tracking.
 
 ### Networking
 

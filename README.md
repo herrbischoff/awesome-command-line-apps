@@ -214,10 +214,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
+- [cointop](https://github.com/miguelmota/cointop) - Interactive cryptocurrency tracking.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - composable [Pocket](https://getpocket.com) client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
-- [cointop](https://github.com/miguelmota/cointop) - Interactive cryptocurrency tracking.
 
 ### Networking
 

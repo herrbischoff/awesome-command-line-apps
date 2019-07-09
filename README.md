@@ -241,6 +241,7 @@ Patreon: https://www.patreon.com/herrbischoff
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 - [nmap](https://nmap.org) - Network discovery and security auditing utility.
 - [vnStat](http://humdi.net/vnstat/) - Console-based network traffic monitor for Linux and BSD that keeps a log of network traffic for the selected interface(s).
+- [zinc](https://github.com/PascalLG/zinc-cpp) - Instantly serve a local directory over HTTP, including CGI scripts.
 
 ### Presentation
 

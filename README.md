@@ -116,6 +116,7 @@ Patreon: https://www.patreon.com/herrbischoff
 
 - [bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - All the power of caniuse.com with none of the GUI.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Command-line utility that creates projects from cookiecutters (project templates).

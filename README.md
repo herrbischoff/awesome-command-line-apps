@@ -90,7 +90,7 @@ Patreon: https://www.patreon.com/herrbischoff
 ### Compression
 
 - [archivemount](http://www.cybernoia.de/software/archivemount.html) - FUSE filesystem using libarchive to mount archives.
-- [dtrx](https://brettcsmith.org/2007/dtrx/) - Takes all the hassle out of extracting archives.
+- [dtrx](https://github.com/moonpyk/dtrx) - Takes all the hassle out of extracting archives.
 
 ### Content Creation
 

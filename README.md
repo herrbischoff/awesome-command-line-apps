@@ -146,7 +146,7 @@ Patreon: https://www.patreon.com/herrbischoff
 ### Email
 
 - [abook](http://abook.sourceforge.net/) - text-based addressbook program designed to use with mutt mail client.
-- [Alpine](http://www.washington.edu/alpine/) - Fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users.
+- [Alpine](http://alpine.x10host.com/alpine/) - Fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users.
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.

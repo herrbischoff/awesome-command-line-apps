@@ -262,6 +262,7 @@ Patreon: https://www.patreon.com/herrbischoff
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking with a CLI.
 - [woof](http://www.home.unix-ag.org/simon/woof.html) - Simple one-off HTTP file sharing.
+- [dnote](https://github.com/dnote/dnote) - A simple and end-to-end encrypted notebook to keep users focused.
 
 ### RSS
 

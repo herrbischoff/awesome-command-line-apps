@@ -118,6 +118,7 @@ Patreon: https://www.patreon.com/herrbischoff
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - All the power of caniuse.com with none of the GUI.
+- [cbf](https://github.com/joshuatvernon/cbf) - Build custom CLI apps with only a json or yaml file.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Command-line utility that creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.

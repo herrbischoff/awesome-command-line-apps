@@ -150,6 +150,7 @@ Patreon: https://www.patreon.com/herrbischoff
 - [imapsync](https://github.com/imapsync/imapsync) - IMAP synchronisation, sync, copy or migration tool.
 - [isync](http://isync.sourceforge.net/) - Command line application to synchronize Maildir and IMAP4 mailboxes both ways.
 - [Mutt](http://www.mutt.org) - All mail clients suck. This one just sucks less.
+- [Neomutt](https://neomutt.org/) - NeoMutt is a command line mail reader based on Mutt.
 - [Notmuch](https://notmuchmail.org) - Fast, global-search and tag-based email system.
 - [OfflineIMAP](https://github.com/OfflineIMAP/offlineimap) - Two-way sync your e-mail mailboxes as a local Maildir.
 - [piler](http://www.mailpiler.org/wiki/start) - Feature rich open source email archiving solution, and a viable alternative to commercial email archiving products.

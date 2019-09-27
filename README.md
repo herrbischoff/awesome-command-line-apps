@@ -329,6 +329,7 @@ Patreon: https://www.patreon.com/herrbischoff
 ### Version Control
 
 - [Bazaar](http://bazaar.canonical.com/en/) - Easily manage source code on Windows, Ubuntu, GNU/Linux, and Mac OS X.
+- [fossil](https://fossil-scm.org) - Simple, high-reliability, distributed SCM with integrated bug tracking, wiki, forum, and technotes.
 - [Git](https://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.
 - [grv](https://github.com/rgburke/grv) - ncurses based text-mode Git repository browser.

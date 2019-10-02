@@ -40,7 +40,7 @@ Patreon: https://www.patreon.com/herrbischoff
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
-    - [Password Managers](#password managers)
+    - [Password Managers](#password-managers)
     - [Presentation](#presentation)
     - [Productivity](#productivity)
     - [RSS](#rss)

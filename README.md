@@ -40,6 +40,7 @@ Patreon: https://www.patreon.com/herrbischoff
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
+    - [Password Managers](#password managers)
     - [Presentation](#presentation)
     - [Productivity](#productivity)
     - [RSS](#rss)
@@ -245,6 +246,10 @@ Patreon: https://www.patreon.com/herrbischoff
 - [ngrep](http://ngrep.sourceforge.net) - grep as a network packet analyzer.
 - [nmap](https://nmap.org) - Network discovery and security auditing utility.
 - [vnStat](http://humdi.net/vnstat/) - Console-based network traffic monitor for Linux and BSD that keeps a log of network traffic for the selected interface(s).
+
+### Password managers
+
+- [pass](https://git.zx2c4.com/password-store) - The standard *nix password manager.
 
 ### Presentation
 

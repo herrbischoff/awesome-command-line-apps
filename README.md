@@ -221,6 +221,7 @@ Patreon: https://www.patreon.com/herrbischoff
 - [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with python.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.com and a few more sites.
+- [yt](https://github.com/rjw57/yt) - A command-line utility for fetching and watching youtube videos.
 
 ### Miscellaneous
 

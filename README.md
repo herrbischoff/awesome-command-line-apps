@@ -302,6 +302,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [asciinema](https://asciinema.org) - Free and open source solution for recording terminal sessions and sharing them on the web.
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [bgrep](http://debugmo.de/2009/04/bgrep-a-binary-grep/) - Like grep but for binary strings.
 - [byobu](http://byobu.co) - Text-based window manager and terminal multiplexer.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing the cat command.

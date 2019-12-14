@@ -310,6 +310,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into git.
 - [Fisherman](https://github.com/fisherman/fisherman) - A blazing fast, modern plugin manager for fish shell.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for fish shell.
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.
 - [Marker](https://github.com/pindexis/marker) - The terminal command palette.
 - [MultiTail](https://www.vanheusden.com/multitail/) - Monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge.

@@ -128,6 +128,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal.
 - [http-prompt](https://github.com/eliangcs/http-prompt) - Interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose.
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical Path CSS Generator.
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static webapps via Dropbox.
 - [Rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error.

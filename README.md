@@ -107,6 +107,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [mycli](http://mycli.net) - Command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 - [pgcli](http://pgcli.com) - Command line interface for Postgres with auto-completion and syntax highlighting.
+- [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 
 ### Data Processing
 

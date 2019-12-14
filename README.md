@@ -308,6 +308,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [cheat](https://github.com/chrisallenlane/cheat) - Create and view interactive cheatsheets on the command-line.
 - [desk](https://github.com/jamesob/desk) - Lightweight workspace manager for the shell.
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into git.
+- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [Fisherman](https://github.com/fisherman/fisherman) - A blazing fast, modern plugin manager for fish shell.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for fish shell.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder.

@@ -316,6 +316,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.
+- [thefuck](https://github.com/nvbn/thefuck) - The Fuck corrects errors in previous console commands.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.

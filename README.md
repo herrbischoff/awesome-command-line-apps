@@ -73,7 +73,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [BorgBackup](https://github.com/borgbackup/borg) - Significantly improved fork of Attic.
 - [duply](http://duply.net) - Easily create GPG encrypted, compressed backups of any data almost anywhere.
 - [mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - Secure mysqldump script with encryption, compression, logging, blacklisting and Nagios monitoring integration.
-- [Restic](https://restic.net) - A fast and secure backup program.
+- [Restic](https://restic.net) - Fast, secure, efficient backup program.
 
 
 ### Benchmarking

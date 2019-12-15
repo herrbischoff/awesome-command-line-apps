@@ -220,7 +220,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Shellpic](https://github.com/larsjsol/shellpic) - Display images inline in the shell, ASCII-art is so 2013.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
 - [ttystudio](https://github.com/chjj/ttystudio) - Terminal-to-gif recorder minus the headaches.
-- [Video Transcoding Scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
+- [Video Transcoding Scripts](https://github.com/donmelton/video_transcoding) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with Python.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - Download videos from YouTube.com and a few more sites.
 

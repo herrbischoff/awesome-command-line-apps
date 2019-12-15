@@ -107,12 +107,14 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [mycli](http://mycli.net) - Command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 - [pgcli](http://pgcli.com) - Command line interface for Postgres with auto-completion and syntax highlighting.
+- [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 
 ### Data Processing
 
 - [datamash](https://www.gnu.org/software/datamash/) - Perform basic numeric, textual and statistical operations on textual data files.
 - [edcount](https://github.com/haroldfreeman/edcount) - Estimate distinct count of values from standard input.
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
+- [yq](https://github.com/mikefarah/yq) - A portable command-line YAML processor.
 
 ### Developer
 
@@ -132,6 +134,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static webapps via Dropbox.
 - [Rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS Command Line Interface.
+- [shellcheck](https://www.shellcheck.net/) - Static analysis and lint tool, for (ba)sh scripts.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
 - [Yarn](https://yarnpkg.com) - Deterministic, secure alternative to npm.
 
@@ -317,6 +320,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [SCREEN](http://www.guckes.net/Screen/) - A "window manager" for the console and terminals.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI alternative to sed.
+- [thefuck](https://github.com/nvbn/thefuck) - The Fuck corrects errors in previous console commands.
 - [tmux](https://tmux.github.io) - A terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on 'frecency'.

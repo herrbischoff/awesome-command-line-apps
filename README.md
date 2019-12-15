@@ -113,6 +113,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [datamash](https://www.gnu.org/software/datamash/) - Perform basic numeric, textual and statistical operations on textual data files.
 - [edcount](https://github.com/haroldfreeman/edcount) - Estimate distinct count of values from standard input.
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
+- [yq](https://github.com/mikefarah/yq) - A portable command-line YAML processor.
 
 ### Developer
 

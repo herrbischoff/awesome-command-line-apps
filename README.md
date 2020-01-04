@@ -203,6 +203,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Audiogrep](https://antiboredom.github.io/audiogrep/) - Creates audio supercuts.
 - [Beets](http://beets.io/) - The music geek's media organizer.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
+- [eyeD3](https://github.com/nicfit/eyeD3) - Python module and command line program for processing ID3 tags (i.e. mp3 metadata).
 - [FFmpeg](http://ffmpeg.org) - Records, converts and streams audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Creates, edits, and gets information about GIF images and animations.
 - [HandBrakeCLI](https://handbrake.fr) - Converts video from nearly any format to a selection of modern, widely supported codecs.

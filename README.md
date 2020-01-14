@@ -306,6 +306,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [asciinema](https://asciinema.org) - Record terminal sessions and share them on the web.
 - [autojump](https://github.com/wting/autojump) - 'cd' command that learns - easily navigate directories from the command line.
+- [bat](https://github.com/sharkdp/bat) - 'cat' clone with syntax highlighting and Git integration.
 - [bgrep](http://debugmo.de/2009/04/bgrep-a-binary-grep/) - Like grep but for binary strings.
 - [byobu](http://byobu.co) - Text-based window manager and terminal multiplexer.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing the 'cat' command.

@@ -321,6 +321,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [SCREEN](http://www.guckes.net/Screen/) - "Window manager" for the console and terminals.
+- [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
 - [tmux](https://tmux.github.io) - Terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on "frecency".

@@ -134,6 +134,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static web apps via Dropbox.
 - [Rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS command-line interface.
+- [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
 - [Yarn](https://yarnpkg.com) - Deterministic, secure alternative to npm.
 

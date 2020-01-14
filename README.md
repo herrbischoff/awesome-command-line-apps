@@ -289,7 +289,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### SSH
 
-- [autossh](http://www.harding.motd.ca/autossh/) - Automatically restart SSH sessions and tunnels.
+- [autossh](https://www.harding.motd.ca/autossh/ ) - Automatically restart SSH sessions and tunnels.
 - [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote folder via SSH.
 - [storm](http://stormssh.readthedocs.io/en/master/) - Manage your SSH connections.
 
@@ -349,7 +349,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### VPN
 
-- [OpenVPN](https://openvpn.net/index.php/open-source.html) - Full-featured open source SSL VPN solution.
+- [OpenVPN](https://github.com/OpenVPN/openvpn) - Full-featured open source SSL VPN solution.
 - [racoon](http://ipsec-tools.sourceforge.net) - Internet Key Exchange (IKE) daemon for automatically keying IPsec connections.
 - [strongSwan](https://www.strongswan.org/) - Open Source IPsec for Linux.
 

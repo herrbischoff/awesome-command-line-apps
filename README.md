@@ -88,6 +88,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [awless](https://github.com/wallix/awless) - Mighty command-line interface for Amazon Web Services.
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
 - [cadaver](http://www.webdav.org/cadaver/) - WebDAV client for Unix.
+- [fireup-cli](https://github.com/AmruthPillai/fireup-cli) - Upload anything, right from your command-line.
 
 ### Compression
 

@@ -263,6 +263,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained command-line interface to the Pinboard.in API.
 - [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.
 - [SC-IM](https://github.com/andmarti1424/sc-im) - ncurses-based spreadsheet application.
+- [stup](https://github.com/iridakos/stup) - Save, organize and search daily notes in the terminal.
 - [Taskwarrior](http://taskwarrior.org) - Manage your Todo list.
 - [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
 - [Watson](http://tailordev.github.io/Watson/) - Elegant time tracking.

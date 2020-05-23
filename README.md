@@ -184,7 +184,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 ### Games
 
 - [Angband](http://rephial.org/) - Free, single-player dungeon exploration game.
-- [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/) - Roguelike set in a post-apocalyptic world.
+- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Roguelike set in a post-apocalyptic world.
 - [Curse of War](https://a-nikolaev.github.io/curseofwar/) - Fast-paced real-time action strategy game.
 - [dopewars](http://dopewars.sourceforge.net) - Deal in drugs on the streets of New York, amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.
 - [Frotz](http://frotz.sourceforge.net/) - Interpreter for Infocom games and other Z-machine games.
@@ -270,7 +270,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### RSS
 
-- [newsbeuter](https://www.newsbeuter.org) - The Mutt of RSS feed readers.
+- [newsbeuter](https://www.newsbeuter.org/) - The Mutt of RSS feed readers.
 - [rss2email](http://www.allthingsrss.com/rss2email/) - Get news from RSS feeds in email.
 
 ### Searching
@@ -329,7 +329,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Text Editors
 
-- [Diakonos](http://diakonos.pist0s.ca) - Linux editor for the masses.
+- [Diakonos](https://github.com/Pistos/diakonos) - Linux editor for the masses.
 - [Emacs](https://www.gnu.org/software/emacs/) - Extensible, customizable text editor.
 - [Kakoune](http://kakoune.org) - Modal editor with multiple selections and orthogonal design.
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive text editor.

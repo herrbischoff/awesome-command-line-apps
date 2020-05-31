@@ -326,7 +326,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [tmux](https://tmux.github.io) - Terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on "frecency".
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - Similar to 'z' but a standalone binary, therefore shell-independent.
 
 ### Text Editors
 

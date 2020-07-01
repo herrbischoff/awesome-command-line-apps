@@ -239,6 +239,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Bandwidth Monitor NG](https://www.gropp.org/?id=projects&sub=bwm-ng) - Small and simple live network and disk IO bandwidth monitor.
 - [Blucat](http://blucat.sourceforge.net/blucat/) - netcat for Bluetooth.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
+= [httping](https://www.vanheusden.com/httping/) - Like 'ping' but for http requests.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) - Display bandwidth usage on an interface.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [mtr](http://www.bitwizard.nl/mtr/) - Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.

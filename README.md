@@ -273,6 +273,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [newsbeuter](https://www.newsbeuter.org/) - The Mutt of RSS feed readers.
 - [rss2email](http://www.allthingsrss.com/rss2email/) - Get news from RSS feeds in email.
+- [rsstail](https://www.vanheusden.com/rsstail/) - Monitors a single RSS feed and emits only new entries.
 
 ### Searching
 

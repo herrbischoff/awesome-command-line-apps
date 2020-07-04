@@ -232,6 +232,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [FIGlet](http://www.figlet.org) - Program for making large letters out of ordinary text.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - Composable Pocket client for the terminal.
+- [tg](https://github.com/paul-nameless/tg) - Telegram terminal client.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
 
 ### Networking

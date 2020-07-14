@@ -384,6 +384,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Fink](http://www.finkproject.org) - The full world of Unix Open Source software for Darwin.
 - [Homebrew](http://brew.sh) - The missing package manager for OS X.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+- [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 - [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software.
 - [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 - [Night Shift Shell Utility](https://github.com/jenghis/nshift) - Simple shell utility to control the macOS Night Shift feature.

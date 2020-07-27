@@ -174,7 +174,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with vi key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 - [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way.
-- [nnn] (https://github.com/jarun/nnn) - ncurses TUI file Terminal manager.
+- [nnn](https://github.com/jarun/nnn) - ncurses TUI file Terminal manager.
 
 ### FTP
 

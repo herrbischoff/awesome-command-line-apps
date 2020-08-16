@@ -220,6 +220,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - Optimizer for PNG (Portable Network Graphics) files.
 - [Shellpic](https://github.com/larsjsol/shellpic) - Display images inline in the shell, ASCII-art is so 2013.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
+- [TerminalMediaViwer](https://github.com/kal39/TerminalMediaViewer) - View images, local videos or youtube videos without leaving the terminal.
 - [ttystudio](https://github.com/chjj/ttystudio) - Terminal-to-gif recorder minus the headaches.
 - [Video Transcoding Scripts](https://github.com/donmelton/video_transcoding) - Utilities to transcode, inspect and convert videos.
 - [Videogrep](https://antiboredom.github.io/videogrep/) - Automatic supercuts with Python.

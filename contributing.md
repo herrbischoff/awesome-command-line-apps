@@ -1,6 +1,13 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+Not every application fits on this list. It focuses on well-executed, fast and
+whenever possible portable applications that ideally follows the Unix
+philosophy of [DOTADIW][DOTADIW]. If you're looking for an endless dump of
+fancy tools with lots of emoji, this is the wrong place. No doubt you will
+easily find other lists that fit your suggestion.
+
+That being said, please ensure your pull request adheres to the following
+guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a 
   duplicate.
@@ -29,8 +36,11 @@ Please ensure your pull request adheres to the following guidelines:
   extreme overhead of dependencies most Node applications rely on. Also, systems
   level programming in JavaScript is just wrong. Not everything that *can* be
   written in JavaScript *should* be written in JavaScript.
+- An excessive amount of emoji in an application's output will almost certainly
+  disqualify it from inclusion.
 
 Thank you for your suggestions!
 
 [capitalized]: http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html
 [Online Capitalize Tool]: https://headlinecapitalization.com
+[DOTADIW]: https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well

@@ -218,6 +218,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [ncmpcpp](http://rybczak.net/ncmpcpp/) - NCurses based MPD client.
 - [OptiPNG](http://optipng.sourceforge.net) - PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Pngcrush](http://pmt.sourceforge.net/pngcrush/) - Optimizer for PNG (Portable Network Graphics) files.
+- [Scrot](https://en.wikipedia.org/wiki/Scrot) - Minimalist screen capturing application.
 - [Shellpic](https://github.com/larsjsol/shellpic) - Display images inline in the shell, ASCII-art is so 2013.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Downloading subtitles for one or more files is just a command away.
 - [ttystudio](https://github.com/chjj/ttystudio) - Terminal-to-gif recorder minus the headaches.

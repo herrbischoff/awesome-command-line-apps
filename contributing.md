@@ -23,6 +23,12 @@ Please ensure your pull request adheres to the following guidelines:
 - No social media related applications.
 - Do not delete any previous entry ever, with the sole exception that a project 
   is officially superseded/continued by the one you're replacing it with.
+- Wikipedia pages are not considered to be a valid link source. Find the most
+  recent source and link to that instead if there's no project website.
+- Node.js command-line tools are accepted very rarely. This is mainly due to the
+  extreme overhead of dependencies most Node applications rely on. Also, systems
+  level programming in JavaScript is just wrong. Not everything that *can* be
+  written in JavaScript *should* be written in JavaScript.
 
 Thank you for your suggestions!
 

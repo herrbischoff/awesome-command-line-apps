@@ -283,6 +283,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to 'find'.
 - [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
+- [fzf](https://github.com/junegunn/fzf) - A general-purpose fuzzy finder.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively search directories for a regex pattern extremely fast.
 - [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - Blazingly fast tool for searching code.
@@ -325,7 +326,6 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [exa](https://github.com/ogham/exa) - Modern version of 'ls'.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Package manager for the fish shell.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for dish shell.
-- [fzf](https://github.com/junegunn/fzf) - A general-purpose fuzzy finder.
 - [Marker](https://github.com/pindexis/marker) - The terminal command palette.
 - [MultiTail](https://www.vanheusden.com/multitail/) - Monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge.
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.

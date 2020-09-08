@@ -321,6 +321,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [cheat](https://github.com/chrisallenlane/cheat) - Create and view interactive cheatsheets.
 - [desk](https://github.com/jamesob/desk) - Lightweight workspace manager for the shell.
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into Git.
+- [exa](https://github.com/ogham/exa) - Modern version of 'ls'.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Package manager for the fish shell.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for dish shell.
 - [fzf](https://github.com/junegunn/fzf) - A general-purpose fuzzy finder.

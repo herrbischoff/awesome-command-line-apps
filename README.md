@@ -136,6 +136,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS command-line interface.
 - [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
+- [tokei](https://github.com/XAMPPRocky/tokei) - Quickly display statistics about your code like number of files, total lines, comments and blanks, grouped by language.
 - [Yarn](https://yarnpkg.com) - Deterministic, secure alternative to npm.
 
 ### Dotfile Management

@@ -100,7 +100,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Conversion
 
-- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue") to a set of .iso and .cdr tracks.
+- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin/.cue" format (sometimes ".raw/.cue") to a set of .iso and .cdr tracks.
 - [Echo](https://github.com/misterGF/echo) - Convert HTML tables to JSON/CSVs.
 - [Pandoc](http://pandoc.org/) - Universal document converter.
 

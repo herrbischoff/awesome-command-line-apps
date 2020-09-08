@@ -88,7 +88,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [awless](https://github.com/wallix/awless) - Mighty command-line interface for Amazon Web Services.
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
 - [cadaver](http://www.webdav.org/cadaver/) - WebDAV client for Unix.
-- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Utility to upload/sync files to Google Drive.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload and sync files to Google Drive.
 
 ### Compression
 

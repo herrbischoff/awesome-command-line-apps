@@ -168,6 +168,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Filesystem Management
 
+- [dust](https://github.com/bootandy/dust) - More intuitive version of 'du'.
 - [FDUPES](https://github.com/adrianlopezroche/fdupes) - Identify or delete duplicate files residing within specified directories.
 - [Midnight Commander](http://www.midnight-commander.org) - Feature-rich visual file manager.
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.

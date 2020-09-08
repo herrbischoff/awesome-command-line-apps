@@ -284,6 +284,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to 'find'.
 - [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively search directories for a regex pattern extremely fast.
+- [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - Blazingly fast tool for searching code.
 
 ### Security
@@ -330,7 +331,6 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [SCREEN](http://www.guckes.net/Screen/) - "Window manager" for the console and terminals.
-- [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
 - [Starship](https://starship.rs) - Minimal, blazing-fast and infinitely customizable prompt for any shell.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of 'tldr'.
 - [tmux](https://tmux.github.io) - Terminal multiplexer.

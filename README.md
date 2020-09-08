@@ -125,6 +125,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [clog](https://github.com/kentcdodds/clog-cli) - Conventional changelog for the rest of us.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & inline critical-path CSS in HTML pages.
+- [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [Grunt](http://gruntjs.com) - The JavaScript Task Runner.
 - [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
 - [how2](https://github.com/santinic/how2) - Stack Overflow from the terminal.

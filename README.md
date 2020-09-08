@@ -329,6 +329,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [SCREEN](http://www.guckes.net/Screen/) - "Window manager" for the console and terminals.
 - [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
 - [Starship](https://starship.rs) - Minimal, blazing-fast and infinitely customizable prompt for any shell.
+- [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of 'tldr'.
 - [tmux](https://tmux.github.io) - Terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on "frecency".

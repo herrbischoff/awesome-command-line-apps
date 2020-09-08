@@ -238,6 +238,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Networking
 
+- [bandwhich](https://github.com/imsnif/bandwhich) - Displays current network utilization by process, connection and remote IP or hostname.
 - [Bandwidth Monitor NG](https://www.gropp.org/?id=projects&sub=bwm-ng) - Small and simple live network and disk IO bandwidth monitor.
 - [Blucat](http://blucat.sourceforge.net/blucat/) - netcat for Bluetooth.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.

@@ -301,6 +301,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [autossh](https://www.harding.motd.ca/autossh/ ) - Automatically restart SSH sessions and tunnels.
 - [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote folder via SSH.
 - [storm](http://stormssh.readthedocs.io/en/master/) - Manage your SSH connections.
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### System
 

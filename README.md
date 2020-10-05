@@ -306,7 +306,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [ApacheTop](http://freecode.com/projects/apachetop) - Curses-based top-like display for Apache information, including requests per second, bytes per second, most popular URLs, etc.
 - [bottom](https://github.com/ClementTsang/bottom) - Graphical process/system monitor with a customizable interface and multitude of features.
-- [dstat](http://dag.wiee.rs/home-made/dstat/) - Versatile replacement for vmstat, iostat, netstat and ifstat.
+- [dstat](https://github.com/dstat-real/dstat) - Versatile replacement for vmstat, iostat, netstat and ifstat.
 - [htop](http://hisham.hm/htop/) - Interactive process viewer.
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.

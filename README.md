@@ -199,6 +199,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - IRC to other chat networks gateway.
 - [Irssi](https://github.com/irssi/irssi) - The client of the future.
+- [kirc](https://github.com/mcpcpc/kirc) - A tiny IRC client written in POSIX C99.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 
 ### Media

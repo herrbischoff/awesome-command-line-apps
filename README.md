@@ -311,6 +311,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [netboot.xyz](https://netboot.xyz) - Boot multiple Operating System installers or utilities over the network from a single menu.
+- [neofetch](https://github.com/dylanaraps/neofetch) - Aesthetic and visually pleasing system information for screenshots.
 - [procs](https://github.com/dalance/procs) - Modern replacement for 'ps'.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for desktop screenshots.
 

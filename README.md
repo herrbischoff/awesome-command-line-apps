@@ -353,6 +353,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 ### Version Control
 
 - [Bazaar](http://bazaar.canonical.com/en/) - Easily manage source code on Windows, Ubuntu, GNU/Linux, and Mac OS X.
+- [forgit](https://github.com/wfxr/forgit) - Utility tool for using git interactively. Powered by FZF.
 - [fossil](https://fossil-scm.org) - Simple, high-reliability, distributed SCM with integrated bug tracking, wiki, forum, and technotes.
 - [Git](https://www.git-scm.com) - Git is a free and open source distributed version control system.
 - [gitfs](https://www.presslabs.com/gitfs/) - Version controlled file system.

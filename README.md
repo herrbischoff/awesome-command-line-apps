@@ -9,11 +9,14 @@
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
 
-## Caffeinating
+## Women Empowerment in Zanzibar
 
-When you find something helpful in here, you could buy me a coffee. I spend a lot of time and effort on curating this list. Keeping me properly caffeinated accelerates things. And it would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings. It's available completely free for a reason. Still, it would be awesome.
-
-<https://github.com/sponsors/herrbischoff>
+Send a little karma down the way and support women empowerment in Zanzibar by
+helping to [fund the local production of reusable female hygiene
+products](https://www.gofundme.com/f/women-empowerment-in-zanzibar). A very
+dear friend of mine runs the project. They were already able to buy hundreds of 
+educational books. Sometimes, it takes so little to make a huge impact.<br>
+If you'd like to thank me or support this work, donate.
 
 
 ## Contents

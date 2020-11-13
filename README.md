@@ -211,6 +211,7 @@ If you'd like to thank me or support this work, donate.
 - [Audiogrep](https://antiboredom.github.io/audiogrep/) - Creates audio supercuts.
 - [Beets](http://beets.io/) - The music geek's media organizer.
 - [cmus](https://cmus.github.io) - Small, fast and powerful console music player for Unix-like operating systems.
+- [editly](https://github.com/mifi/editly) - Declarative, non-linear video editor.
 - [FFmpeg](http://ffmpeg.org) - Records, converts and streams audio and video.
 - [Gifsicle](http://www.lcdf.org/gifsicle/) - Creates, edits, and gets information about GIF images and animations.
 - [HandBrakeCLI](https://handbrake.fr) - Converts video from nearly any format to a selection of modern, widely supported codecs.

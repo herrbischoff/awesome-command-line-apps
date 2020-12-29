@@ -339,6 +339,7 @@ hundred percent to the NGO.
 - [Starship](https://starship.rs) - Minimal, blazing-fast and infinitely customizable prompt for any shell.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of 'tldr'.
 - [tmux](https://tmux.github.io) - Terminal multiplexer.
+- [topalias](https://github.com/CSRedRat/topalias) - Bash/Zsh aliases generator from command history with shell statistic.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on "frecency".
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Similar to 'z' but a standalone binary, therefore shell-independent.

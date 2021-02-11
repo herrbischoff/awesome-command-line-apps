@@ -135,6 +135,7 @@ hundred percent to the NGO.
 - [how2](https://github.com/santinic/how2) - Stack Overflow from the terminal.
 - [http-prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
 - [HTTPie](https://github.com/jkbrzt/httpie) - User-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+- [pcalc](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 - [penthouse](https://github.com/pocketjoso/penthouse) - Critical path CSS generator.
 - [Publoy](http://abhiomkar.github.io/publoy/) - Command line tool to deploy your static web apps via Dropbox.
 - [Rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results when you get a compiler error.

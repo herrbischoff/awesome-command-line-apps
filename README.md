@@ -268,6 +268,7 @@ hundred percent to the NGO.
 - [idea](https://github.com/IonicaBizau/idea) - Lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [MapSCII](https://github.com/rastapasta/mapscii) - OpenStreetMap client, renders an explorable Braille & ASCII world map.
+- [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 - [pdfgrep](https://pdfgrep.org) - Command-line utility to search text in PDF files.
 - [pin-cushion](https://github.com/ELLIOTTCABLE/pin-cushion) - Simple, maintained command-line interface to the Pinboard.in API.
 - [Remind](https://www.roaringpenguin.com/products/remind) - Sophisticated calendar and alarm program.

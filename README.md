@@ -240,6 +240,7 @@ hundred percent to the NGO.
 - [license](https://nishanths.github.io/license/) - Create LICENSEs from the command-line.
 - [pockyt](https://github.com/arvindch/pockyt) - Composable Pocket client for the terminal.
 - [wego](https://github.com/schachmat/wego/) - Weather client for the terminal.
+- [visa-cli](https://github.com/rand-net/visa-cli) - Visa Requirements interface.
 
 ### Networking
 

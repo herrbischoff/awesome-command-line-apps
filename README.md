@@ -67,6 +67,7 @@ hundred percent to the NGO.
 
 - [Ansible](https://www.ansible.com) - Automate deployment, configuration, and upgrading.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - Cross-platform file change monitor with multiple backends.
+- [CFT](https://github.com/rfo909/CFT) - Cross-platform programmable shell for automation.
 
 ### Backup
 

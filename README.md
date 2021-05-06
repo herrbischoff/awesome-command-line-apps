@@ -70,7 +70,6 @@ hundred percent to the NGO.
 
 - [Ansible](https://www.ansible.com) - Automate deployment, configuration, and upgrading.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - Cross-platform file change monitor with multiple backends.
-- [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) - Customizable automation tool to run operations or start workflows.
 
 ### Backup
 
@@ -300,6 +299,7 @@ hundred percent to the NGO.
 
 - [acme.sh](https://github.com/Neilpang/acme.sh) - Pure Unix shell script implementing ACME client protocol, for Let's Encrypt.
 - [Aircrack-ng](http://aircrack-ng.org) - 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured.
+- [Horusec](https://github.com/ZupIT/horusec) - Identify vulnerabilities in your project through static code analysis.
 - [Let's Encrypt](https://letsencrypt.org) - Free, automated and open Certificate Authority.
 - [pass](https://www.passwordstore.org) - The standard Unix password manager.
 

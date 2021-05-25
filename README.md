@@ -147,6 +147,7 @@ hundred percent to the NGO.
 ### Dotfile Management
 
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+- [chezmoi] (https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in Bash.
 
 ### Download Utilities

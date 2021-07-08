@@ -298,6 +298,7 @@ hundred percent to the NGO.
 - [Aircrack-ng](http://aircrack-ng.org) - 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured.
 - [Let's Encrypt](https://letsencrypt.org) - Free, automated and open Certificate Authority.
 - [pass](https://www.passwordstore.org) - The standard Unix password manager.
+- [snip](https://github.com/sniptt-official/snip-cli) - Developer-friendly secret manager.
 
 ### SSH
 
